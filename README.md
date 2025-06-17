@@ -5,6 +5,7 @@ A comprehensive multilingual mental health chatbot built using fine-tuned Qwen3-
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
+- [Dataset Overview](#dataset-overview)
 - [Data Preparation Pipeline](#data-preparation-pipeline)
 - [Model Training](#model-training)
 - [Inference & Evaluation](#inference--evaluation)
@@ -25,7 +26,94 @@ This project develops a multilingual mental health chatbot focusing on **distres
 - **Novel RL Approach**: Reinforcement Learning with Self-Awareness using GRPO
 - **Comprehensive Evaluation**: 7-metric evaluation system for mental health responses
 
-## 📊 Data Preparation Pipeline
+## � Dataset Overview
+
+This project utilizes multiple datasets across different phases of development, from foundational human conversations to synthetic data generation and hybrid combinations. All datasets are carefully curated and processed to ensure quality and cultural sensitivity.
+
+### 🗂️ File paths of datasets
+| Path | Description |
+|---------|---------------|
+|01_Building_Dataset/01_Phase_1_Human_Data_and_Translate/Interview_Data_6K.csv|Original dataset from Mental16k|
+|01_Building_Dataset/01_Phase_1_Human_Data_and_Translate/01_Translated_data_by_LLM|Translated version of Mental16K|
+|01_Building_Dataset/02_Phase_2_Synthetic_Data/00_Demographic_SocialVerse_Data|Inlcude 2 files: 10M user profile on X and samplin of 500 profiles|
+|01_Building_Dataset/02_Phase_2_Synthetic_Data/04_output|Synthetic data output|
+|01_Building_Dataset/02_Phase_2_Synthetic_Data/02_social_category.csv|Social category support for generting data|
+|01_Building_Dataset/02_Phase_2_Synthetic_Data/02_culture_sensitive.md|Culture Characteristics Data|
+|01_Building_Dataset/04_Final_dataset|Final dataset for training for 3 phases 7 models|
+|03_Inference_from_Model/01_inference_result|Result of inference from 9 models - 7 trained model + 2 basesline on test sets of 200 multilingual questions|
+|04_Evaluation/01_question_from_patients|Test sets includes questions from customers|
+|04_Evaluation/03_evaluation_detailed_results_from_gpt_gemini|Detailed data of respones of answer judgment from GPT adn Gemini|
+
+
+### 🗂️ Training Datasets
+
+#### Phase 1: Foundation Human Data
+| Dataset | File Location | Size | Languages | Description |
+|---------|---------------|------|-----------|-------------|
+| **Mental Health 6K** | `01_Building_Dataset/04_Final_dataset/Interview_Data_6K.csv` | ~6,000 conversations | English | Original human conversations between patients and mental health professionals from Mental16K dataset |
+| **Multilingual Translated Data** | `01_Building_Dataset/04_Final_dataset/Translated_Data_5k_5_languages.csv` and other files in  | ~5,000 conversations × 5 languages | EN, VI, AR, ZH-CN, ZH-HK | AI-translated version of Mental16K to support multilingual training |
+
+#### Phase 2: Synthetic Data Generation
+| Dataset | File Location | Size | Languages | Description |
+|---------|---------------|------|-----------|-------------|
+| **Synthetic Interview Data** | `01_Building_Dataset/04_Final_dataset/stage_2_1_synthetic_interview_data_combined.csv` | 5,000 conversations | EN, VI, AR, ZH-CN, ZH-HK | Culturally-diverse synthetic conversations generated from 500 SocialVerse profiles across 33 psychology categories |
+
+#### Phase 3: Hybrid Data Combination
+| Dataset | File Location | Size | Languages | Description |
+|---------|---------------|------|-----------|-------------|
+| **Hybrid Training Data** | `01_Building_Dataset/04_Final_dataset/stage_3_1_hybrid_data.csv` | Optimized subset | EN, VI, AR, ZH-CN, ZH-HK | Final hybrid dataset used for training v3.1 and v3.2 models |
+
+### 🧪 Evaluation Datasets
+
+#### Test Questions Dataset
+| Dataset | File Location | Size | Languages | Description |
+|---------|---------------|------|-----------|-------------|
+| **Original Test Questions** | `04_Evaluation/01_question_from_patients/question.jsonl` | 200 questions | English | Curated from Reddit posts by J Xu. et.al for mental health evaluation |
+| **Multilingual Test Set** | `04_Evaluation/01_question_from_patients/sampled_multilingual_200.jsonl` | 200 questions (40 per language) | EN, VI, AR, ZH-CN, ZH-HK | Balanced multilingual test set for comprehensive evaluation |
+
+### 🔧 Training Support Datasets
+
+#### Formatting for RL Training
+| Dataset | File Location | Size | Languages | Description |
+|---------|---------------|------|-----------|-------------|
+| **Format Training Samples** | `01_Building_Dataset/04_Final_dataset/generated_responses_60_samples.csv` | 60 samples | EN, VI, AR, ZH-CN, ZH-HK | Carefully formatted samples for teaching models proper response structure before RL training |
+
+### 📊 Dataset Statistics Summary
+
+| Phase | Total Conversations | Languages | Data Source | Training Versions |
+|-------|-------------------|-----------|-------------|------------------|
+| **Phase 1** | ~11,000 | 5 | Mental16K + Translations | v1.1, v1.2, v1.3 |
+| **Phase 2** | 5,000 | 5 | SocialVerse + Synthetic Generation | v2.1, v2.2 |
+| **Phase 3** | ~16,000 (optimized) | 5 | Hybrid Combination | v3.1, v3.2 |
+| **Evaluation** | 200 questions | 5 | Reddit + Translations | All model testing |
+
+### 🌍 Language Distribution
+
+All training datasets maintain balanced representation across:
+- **English (EN)**: Base language for original data
+- **Vietnamese (VI)**: Southeast Asian cultural context
+- **Arabic (AR)**: Middle Eastern cultural context  
+- **Chinese Mandarin (ZH-CN)**: Simplified Chinese
+- **Cantonese (ZH-HK)**: Traditional Chinese (Hong Kong)
+
+### 🔄 Data Processing Pipeline
+
+1. **Collection**: Mental16K human conversations + SocialVerse profiles
+2. **Translation**: AI-powered multilingual translation with cultural adaptation
+3. **Synthesis**: Generated diverse conversations using cultural-sensitive prompts
+4. **Combination**: Strategic merging of real and synthetic data
+5. **Optimization**: Quality filtering and balance adjustment
+6. **Evaluation**: Multilingual test set creation and validation
+
+### 📈 Data Quality Assurance
+
+- **Human Curation**: 100+ samples manually reviewed for quality
+- **Cultural Sensitivity**: Research-based cultural adaptation for each language
+- **Balanced Demographics**: 500 diversified profiles ensuring representation
+- **Professional Standards**: Mental health best practices maintained throughout
+- **Statistical Sampling**: Methodologically sound sampling techniques applied
+
+## �📊 Data Preparation Pipeline
 
 ### Phase 1: Foundation Data (v1.1 - v1.3)
 
