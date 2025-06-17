@@ -512,6 +512,8 @@ Results from the human evaluation are used to further refine and benchmark the c
 ## 👥 Contributors
 
 - **Project Team**: COMP8420 Natural Language Processing Course
+  + Hong Tai Tran - 48363073
+  + Phuong Thao (Jasmine) Huynh - 46248722
 - **Institution**: Macquarie University
 - **Focus**: Multilingual Mental Health Technology
 
