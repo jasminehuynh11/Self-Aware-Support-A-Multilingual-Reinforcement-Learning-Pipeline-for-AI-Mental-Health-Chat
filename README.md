@@ -53,6 +53,8 @@ This project utilizes multiple datasets across different phases of development, 
 | **Mental Health 6K** | `01_Building_Dataset/04_Final_dataset/Interview_Data_6K.csv` | ~6,000 conversations | English | Original human conversations between patients and mental health professionals from Mental16K dataset |
 | **Multilingual Translated Data** | `01_Building_Dataset/04_Final_dataset/Translated_Data_5k_5_languages.csv` and other files in  | ~5,000 conversations × 5 languages | EN, VI, AR, ZH-CN, ZH-HK | AI-translated version of Mental16K to support multilingual training |
 
+However, we then only take 1,000 sample per language (except English) to final dataset.
+
 #### Phase 2: Synthetic Data Generation
 | Dataset | File Location | Size | Languages | Description |
 |---------|---------------|------|-----------|-------------|
@@ -82,9 +84,9 @@ This project utilizes multiple datasets across different phases of development, 
 
 | Phase | Total Conversations | Languages | Data Source | Training Versions |
 |-------|-------------------|-----------|-------------|------------------|
-| **Phase 1** | ~11,000 | 5 | Mental16K + Translations | v1.1, v1.2, v1.3 |
+| **Phase 1** | ~10,000 | 5 | Mental16K + Translations | v1.1, v1.2, v1.3 |
 | **Phase 2** | 5,000 | 5 | SocialVerse + Synthetic Generation | v2.1, v2.2 |
-| **Phase 3** | ~16,000 (optimized) | 5 | Hybrid Combination | v3.1, v3.2 |
+| **Phase 3** | ~15,000 (optimized) | 5 | Hybrid Combination | v3.1, v3.2 |
 | **Evaluation** | 200 questions | 5 | Reddit + Translations | All model testing |
 
 ### 🌍 Language Distribution
