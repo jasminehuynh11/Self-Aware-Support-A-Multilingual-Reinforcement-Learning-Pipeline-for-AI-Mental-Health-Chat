@@ -1,0 +1,12 @@
+unsloth
+unsloth_zoo
+tranformers
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+matplotlib
+langdetect
+vllm

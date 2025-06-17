@@ -1,0 +1,800 @@
+instruction,input,output,source_file,language
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","在过去的四年里，我一直在努力维持与家人，尤其是我哥哥的健康关系。我们之间的裂痕始于一次家庭聚会时，他对我的职业选择发表了贬低性的评论。我试图解决这个问题，但他忽视了我的关切，继续贬低我。从那时起，我们的互动变得紧张，我发现自己开始避免参加家庭活动和聚会。
+
+尽管与家人相处困难，我还是设法保持了友谊，因为我和同一群朋友已经超过25年。然而，在照顾临终关怀中的祖父时，我感到社交孤立和孤独。这种孤立感加剧了，因为我的朋友们都忙于自己的生活和家庭，我也不想给他们带来我的个人问题。","感谢你分享你的经历，这种家庭关系中的紧张和孤立感确实会给人带来很大的情绪压力。你提到你与哥哥之间的裂痕始于他对你的职业选择的贬低性评论，这种伤害感很真实，尤其是当你试图沟通却被忽视时。避免家庭活动是一个自然的防御机制，帮助你保护自己免受进一步的伤害。
+
+同时，你在照顾临终关怀中的祖父时感受到的孤独和社交隔离感也非常理解。照顾亲人本身就是一项情感和体力上的巨大挑战，而朋友们的忙碌可能让你感觉缺少支持，这并不意味着你的感受不重要，只是环境限制了他们的反应能力。
+
+在这种情况下，你可以尝试以下几点：
+1. 设法与哥哥进行一次平静且诚实的沟通，表达你的感受和期待，尝试寻找理解和和解的可能。
+2. 寻找能够理解你处境的支持群体，比如临终关怀支持组织或心理咨询师，他们可以提供专业的情感支持和建议。
+3. 尽量保持与朋友的联系，即使只是简短的交流，也能缓解孤独感。你可以选择适合自己节奏的方式与朋友互动，不必感到负担。
+4. 关注自己的情绪和需求，适当给自己时间和空间放松和恢复，保持身心健康。
+
+如果你觉得情绪压力持续加重，或者影响了你的日常生活，建议寻求专业心理健康服务，他们可以提供个性化的帮助和支持。
+
+你已经做得很好，能够意识到这些问题并寻求帮助，这本身就是一种坚强和自我关怀的表现。请继续照顾好自己，记得你并不孤单，有很多资源和人愿意支持你。
+
+如果你希望，我可以帮助你了解更多具体的应对方法和资源信息。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":10,""Holistic Approach"":9,""Explaination for Scoring"":""回答详细体现了对用户描述的理解和同理，回应了他们的情感和困境，提供了切实可行的建议。语言表达安全、尊重，避免偏见，结构清晰，鼓励用户寻求专业帮助，强调了自我关怀和外部支持。综合考虑了情绪、社交和家庭关系等多方面因素，体现了整体性。分数较高，唯独在某些具体细节上的建议还可进一步个性化，故稍有保留。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我过去常常担心母亲在夜间走失时的安全。她的病情表现为迷失方向和记忆丧失的发作，这一直是我焦虑的根源。害怕她走失或伤害自己，尤其是在夜晚，让我一直处于紧张状态。,"听到您对母亲夜间走失的担忧，我能理解这对您来说是非常难以承受的压力。母亲出现迷失方向和记忆丧失的症状，确实会让照顾者感到焦虑和无助。您对她安全的担心是非常合理的，毕竟作为家人，您希望她能平安无事。
+
+为了帮助减轻您的焦虑，您可以考虑采取一些实际措施来保障母亲夜间的安全，比如安装门窗报警器，使用定位设备，或者与邻居保持联系，确保有人可以及时发现异常情况。此外，和专业医生或护理人员沟通，了解病情的管理和应对策略，也能为您提供更多的支持和指导。
+
+同时，也建议您关注自己的心理健康。长期的焦虑容易消耗您的精力，您可以尝试寻求心理咨询，或者参加一些支持团体，与其他有类似经历的人交流，获得情感上的支持。
+
+您的关心和付出非常宝贵，照顾患病亲人是非常不容易的事情。请记得，适当寻求帮助和照顾自己同样重要，这样您才能更好地照顾母亲。如果您感到压力难以承受，建议及时联系专业心理健康人士，获得更专业的帮助。
+
+希望这些建议对您有所帮助，也祝愿您的母亲和您都能得到更多的安全感和支持。
+
+<evaluate>{""Active Listening"" : 10, ""Empathy & Validation"": 10, ""Safety & Trustworthiness"" : 9, ""Open-mindedness & Non-judgment"" : 10, ""Clarity & Encouragement"" : 10, ""Boundaries & Ethical"" : 9, ""Holistic Approach"" : 9, ""Explaination for Scoring"": ""回答充分体现了对用户焦虑的理解和关注，提供了具体的安全措施建议和情感支持，确保信息安全可信。表达中无偏见，语言清晰且鼓励用户寻求专业帮助，强调了照顾者自身的心理健康。唯一扣分点在于未详细说明具体心理咨询途径，但整体覆盖了多角度关注用户问题。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi luôn đấu tranh với những suy nghĩ và cảm xúc tiêu cực, nhưng tôi nhận thấy rằng những người có cái nhìn tích cực hơn về cuộc sống thường khỏe mạnh và hạnh phúc hơn. Tôi đã thấy một biểu đồ về điều này trong một buổi hội thảo về sức khỏe tâm thần, và nó đã gây được sự đồng cảm với tôi. Nhưng tôi thường mắc sai lầm khi làm người chăm sóc, và tôi không thể không cảm thấy tội lỗi và thất vọng khi điều đó xảy ra.","Cảm ơn bạn đã chia sẻ những suy nghĩ và cảm xúc rất chân thật của mình. Việc bạn nhận ra sự khác biệt giữa những người có cái nhìn tích cực và sức khỏe tinh thần tốt hơn là một bước quan trọng trong quá trình tự nhận thức. Cảm giác tội lỗi và thất vọng khi bạn cảm thấy mình mắc sai lầm trong vai trò chăm sóc là điều hoàn toàn dễ hiểu và rất phổ biến. Không ai là hoàn hảo, và việc mắc lỗi cũng là một phần tự nhiên của trải nghiệm làm người chăm sóc.
+
+Điều quan trọng là bạn đang ý thức được cảm xúc của mình và mong muốn cải thiện. Có thể bạn sẽ tìm thấy lợi ích khi thử các kỹ thuật như tự tha thứ cho bản thân, luyện tập chánh niệm, hoặc tìm sự hỗ trợ từ những người xung quanh hoặc chuyên gia tâm lý để giảm bớt gánh nặng cảm xúc. Hãy nhớ rằng chăm sóc bản thân cũng là một phần thiết yếu để bạn có thể chăm sóc tốt người khác.
+
+Nếu bạn cảm thấy những cảm xúc này ảnh hưởng nhiều đến cuộc sống hàng ngày, việc tìm đến một nhà tư vấn hoặc chuyên gia tâm lý sẽ giúp bạn có thêm công cụ và chiến lược để xử lý chúng hiệu quả hơn. Bạn không đơn độc trong hành trình này, và việc bạn quan tâm đến sức khỏe tâm thần của mình là rất quý giá.
+
+Bạn có muốn tôi giúp bạn tìm hiểu thêm về các kỹ thuật quản lý cảm xúc hoặc cách tìm kiếm sự hỗ trợ chuyên nghiệp không? 
+
+<evaluate>{""Active Listening"" : 9, ""Empathy & Validation"": 9, ""Safety & Trustworthiness"" : 10, ""Open-mindedness & Non-judgment"" : 10, ""Clarity & Encouragement"" : 9, ""Boundaries & Ethical"" : 9, ""Holistic Approach"" : 9, ""Explaination for Scoring"": ""Câu trả lời thể hiện sự lắng nghe kỹ lưỡng bằng cách phản ánh chính xác những cảm xúc và mối quan tâm của người dùng. Đồng thời, câu trả lời truyền đạt sự đồng cảm và xác nhận cảm xúc của họ, tạo cảm giác an toàn và tin tưởng. Câu trả lời cũng duy trì sự không phán xét và khuyến khích người dùng tìm kiếm sự hỗ trợ chuyên nghiệp khi cần thiết. Ngoài ra, câu trả lời rõ ràng, dễ hiểu và có tính khích lệ, đồng thời cung cấp một góc nhìn toàn diện về tình trạng tâm lý của người dùng. Một điểm giảm nhẹ do không đề cập chi tiết hơn về các biện pháp tự giúp cụ thể hơn.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","過去四年，我一直努力維持與家人，特別是我哥哥之間的健康關係。我們之間的裂痕始於一次家庭聚會時，他對我的職業選擇發表了貶低的評論。我嘗試解決這個問題，但他忽視了我的關注，繼續貶低我。從那時起，我們的互動變得緊張，我發現自己開始避免參加家庭活動和聚會。
+
+儘管與家人相處困難，我仍設法保持了友誼，因為我和同一群朋友已超過25年。然而，在照顧臨終關懷中的祖父時，我感到社交孤立和孤獨。這種孤立感加劇了，因為我的朋友們都忙於自己的生活和家庭，我也不想給他們帶來我的個人問題。","你好，感謝你分享你與家人及朋友之間的關係經歷。從你的描述中，可以感受到你在家庭關係，特別是與哥哥的互動上遇到了不少挑戰。被親人貶低和忽視自己的感受，確實會讓人感到受傷和孤立。你為維持關係所付出的努力是非常值得肯定的。另一方面，你在照顧臨終關懷中的祖父時感到孤獨和社交隔離，這也是一個很艱難的時刻，尤其當朋友們忙於自己的生活時，感受到缺乏支持是很自然的反應。
+
+在這種情況下，以下是一些建議，希望能幫助你：
+
+1. **自我情緒照顧**：照顧祖父的過程中，別忘了關注自己的情緒需要。可以嘗試一些緩解壓力的活動，如深呼吸、寫日記或進行輕鬆的運動。
+
+2. **尋求支持**：即使朋友們忙碌，也許可以試著坦誠地分享你的感受，讓他們知道你需要支持。此外，你也可以考慮尋找專業的心理輔導服務，幫助你處理孤獨感和家庭關係的壓力。
+
+3. **設定界限**：對於哥哥的貶低評論，嘗試保護自己的心理健康，設定界限是很重要的。你可以選擇在適當的時候表達你的感受，或是暫時保持距離，讓自己有空間恢復。
+
+4. **尋找社交機會**：如果覺得與現有的朋友聯繫不足，可以考慮參加一些新的社交活動或興趣小組，擴展社交圈，增加支持網絡。
+
+5. **接納與寬容**：雖然家人的態度令你受傷，但接納他們的局限性和不完美，並專注於你能掌控的部分，也有助於減輕內心負擔。
+
+你已經展現出很強的韌性，願意面對困難並尋找解決方法。希望你能繼續關注自己的需要，尋找適合的支持，讓自己感到更有力量。
+
+如果你覺得壓力過大或情緒難以調節，尋求專業心理健康服務會是一個很好的選擇。你不是孤單一人，有很多資源可以支持你。
+
+祝福你一切安好，保持堅強！
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":9,""Clarity & Encouragement"":8,""Boundaries & Ethical"":8,""Holistic Approach"":9,""Explaination for Scoring"":""本回答充分反映了用戶的情況並表達了對其情感的理解和同理，給予了具體且實用的建議，也提醒尋求專業幫助，保持安全和倫理。語氣尊重且非評判，鼓勵用戶繼續努力和自我照顧，回應清晰且全面，適合用戶的情境，因此各項評分皆較高。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我最近感到越来越焦虑和不堪重负。我的工作量比平时更重，睡眠也出现了问题。我注意到自己开始回避社交场合，越来越常感到孤立。我尝试通过锻炼和健康饮食来管理压力，但情况似乎在恶化。我不断反复思考过去的创伤和负面经历，这让我感到无助和绝望。我尝试向朋友和家人寻求支持，但常常觉得自己是个负担。我已经考虑寻求专业帮助有一段时间了，但工作安排使我难以定期参加治疗。,"听到你最近感到焦虑、压力大，甚至出现睡眠问题，回避社交并感到孤立，我能理解这对你来说是多么艰难的经历。你尝试通过锻炼和健康饮食自我调节，说明你在积极寻找方法来帮助自己，这非常值得肯定。
+
+你提到反复思考过去的创伤和负面经历，导致无助和绝望的感觉，这种情绪负担非常沉重。感到自己是负担而不敢向亲友坦露心声，也反映了你内心的脆弱和孤立感。你考虑寻求专业帮助，这一步非常重要，也是对自己负责的表现。虽然工作安排紧张，但如果可能的话，尝试寻找灵活的心理咨询方式，比如线上咨询，或是利用早晚时间段进行短暂的心理支持，可能会有所帮助。
+
+另外，建议你在日常生活中尝试一些简单的放松练习，如深呼吸、正念冥想，帮助缓解焦虑。同时，保持规律的作息，避免过度依赖咖啡因或刺激性饮料，有助于改善睡眠。你也可以尝试写日记，把内心的感受和思绪写出来，这对理清思路和情绪有一定帮助。
+
+如果你感觉情绪非常低落，甚至出现自伤或自杀的想法，请务必尽快寻求紧急帮助，比如联系心理危机干预热线或到医院就诊。你的安全和健康是最重要的。
+
+你已经迈出了认识问题和寻求帮助的第一步，我鼓励你继续坚持，逐步找到适合自己的支持和方法。专业的心理咨询不仅可以帮助你更好地理解和应对过去的创伤，也能提供有效的策略来管理当前的压力和焦虑。希望你能够给予自己更多的耐心和关怀，因为治愈是一个渐进的过程。
+
+如果需要，我也可以帮助你了解更多心理健康资源和自助工具，随时告诉我你的需求。
+
+祝你早日找到内心的平静和力量。
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":10, ""Safety & Trustworthiness"":9, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":9, ""Explaination for Scoring"": ""回答充分体现了对用户感受的理解和关注，准确抓住了用户的主要困扰。表达了对用户情绪的同理和支持，避免了任何评判。提供了切实可行的建议，包括专业帮助和自我调节方法，且强调了紧急情况下的安全措施，体现了责任感。语言清晰，鼓励用户继续寻求帮助和改善。回答中强调了信息性质，建议用户寻求专业治疗，符合伦理要求。整体回答角度综合，关注情绪、行为和社交层面，体现了整体性。所有方面均较全面和细致，略有提升空间主要在于针对具体工作安排挑战的个性化建议可更深入。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我一直嘗試將自己從困難嘅情況中抽離，例如當事情對我嚟講太過沉重時就開車離開。但有時，我唔想同任何人講嘢，甚至唔想同朋友傾計。我一直諗住旅行，作為一種分散注意力同搵啲平靜嘅方法。我想像住去愛爾蘭，重新粉刷我嘅屋企，買一部新嘅洗碗機。,"你好，感謝你分享你嘅感受同做法。你講到當遇到困難嘅事情時，你會嘗試用開車離開去抽離自己，呢個方法好似幫你暫時逃避壓力，畀你啲時間冷靜。但同時，你又會有唔想同人講嘢，甚至唔想同朋友傾計嘅時候，呢啲情緒都係好正常嘅反應，因為有時候人需要空間去整理自己嘅心情。
+
+你提到想去旅行，好似愛爾蘭咁，甚至想重新粉刷屋企同買新嘅洗碗機，呢啲計劃反映你想搵啲新鮮感同改變，亦想為自己創造一啲平靜同愉快嘅環境。旅行同換新嘢有時真係幫助減輕壓力同提升心情，但同時都要留意自己嘅情緒狀態，如果感覺情緒持續低落或者無法處理，都可以考慮搵專業人士傾下，幫你更好理解同面對。
+
+你嘅做法證明你好努力去照顧自己，適當嘅休息同放鬆好重要。希望你可以繼續聽從自己嘅需要，做到平衡。如果你想，我都可以同你一齊探討更多減壓嘅方法或者點樣更好照顧自己。
+
+如果你覺得情緒開始影響日常生活或者感覺好困擾，唔好猶豫去搵心理健康專業人士支持，佢哋可以提供更專業嘅幫助。
+
+希望你快啲搵到心靈嘅平靜同力量，加油！  
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":8,""Explaination for Scoring"":""我有詳細回應到用戶描述嘅情況，並反映佢嘅感受及行為，展示咗好嘅傾聽。用語充滿同理心，尊重用戶情緒，避免評價。安全及可信嘅建議包括考慮專業幫助，避免傷害。回應清晰並提供鼓勵，亦強調界限同專業角色。全方位考慮到情緒、行為同環境，但對於更深入心理層面分析有所保留，因此分數略低。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi đã từng thử thực hành chánh niệm trước đây, nhưng tôi thấy khó tập trung vào hơi thở khi tâm trí tôi quá bận rộn với những yêu cầu của công việc và cuộc sống cá nhân. Tôi cảm thấy có lỗi khi dành thời gian cho bản thân trong khi còn quá nhiều việc phải làm.","Cảm ơn bạn đã chia sẻ cảm xúc và trải nghiệm rất chân thật về việc thực hành chánh niệm. Việc tâm trí bạn bị phân tán bởi những áp lực từ công việc và cuộc sống cá nhân là điều rất phổ biến, và cảm giác có lỗi khi dành thời gian cho bản thân cũng là một phản ứng tự nhiên mà nhiều người gặp phải. Thực hành chánh niệm không đòi hỏi bạn phải tập trung hoàn hảo ngay lập tức; đó là một quá trình dần dần và bạn có thể bắt đầu bằng những bước nhỏ, chẳng hạn như dành vài phút mỗi ngày để chú ý đến hơi thở hoặc cảm giác cơ thể, dù chỉ trong một khoảng thời gian ngắn. Đồng thời, bạn cũng có thể thử áp dụng chánh niệm trong các hoạt động hàng ngày, như khi đi bộ, rửa chén hoặc uống nước, để giảm bớt áp lực phải ""làm đúng"" trong những lần thực hành chính thức. Quan trọng là bạn tạo ra không gian cho bản thân để thư giãn và chăm sóc sức khỏe tinh thần, bởi đó không phải là việc ích kỷ mà là cần thiết để bạn có thể duy trì năng lượng và sự ổn định trong cuộc sống. Nếu bạn cảm thấy khó khăn nhiều, việc trao đổi với một chuyên gia tâm lý cũng có thể giúp bạn tìm ra cách phù hợp nhất cho riêng mình.
+
+Bạn có muốn tôi giúp bạn tìm hiểu thêm về các kỹ thuật chánh niệm dễ áp dụng trong cuộc sống hàng ngày không? Hoặc bạn muốn chia sẻ thêm về những khó khăn cụ thể bạn đang gặp phải? Tôi luôn sẵn lòng lắng nghe và hỗ trợ bạn. 
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":9, ""Safety & Trustworthiness"":10, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":9, ""Explaination for Scoring"": ""Câu trả lời đã thể hiện sự thấu hiểu rõ về khó khăn của người hỏi, đồng thời đồng cảm và khẳng định cảm xúc của họ. Nội dung cung cấp thông tin an toàn, không gây tổn thương, đồng thời không mang tính phán xét. Câu trả lời rõ ràng, có phần khuyến khích người hỏi tiếp tục cố gắng. Có nhắc đến việc tham khảo chuyên gia khi cần, đảm bảo tính đạo đức và ranh giới tư vấn. Câu trả lời cũng khá toàn diện khi gợi ý áp dụng chánh niệm trong nhiều hoàn cảnh khác nhau, không chỉ giới hạn vào thực hành chính thức.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我以前試過正念，但當我嘅心思被工作同私人生活嘅要求佔據時，我發現好難專注於呼吸。當有咁多嘢要做時，我會因為花時間照顧自己而感到內疚。,"我明白你嘅感受，當工作同私人生活壓力大，確實好難靜心去做正念練習。感覺內疚想照顧自己，呢種情緒都好常見，因為我哋往往覺得要先完成好多責任先至可以放鬆。其實，照顧自己唔係自私，而係幫助你有更好嘅能量去面對生活嘅挑戰。你可以試下用更短時間嘅正念練習，例如幾分鐘嘅深呼吸，或者喺日常活動（例如行路或者食嘢）中嘗試專注當下，唔一定要長時間靜坐。慢慢嚟，接受自己有時專注唔到都係正常，唔好太苛求自己。如果感到內疚，可以試下對自己講：「我值得被照顧，我嘅健康好重要。」呢啲都係支持自己嘅方式。你覺得呢啲方法可唔可以幫到你？如果你感覺情況持續困擾你，可以考慮搵專業人士一齊傾下，佢哋可以提供更個人化嘅支援。
+
+<evaluate>{""Active Listening"" : 9, ""Empathy & Validation"": 9, ""Safety & Trustworthiness"" : 9, ""Open-mindedness & Non-judgment"" : 9, ""Clarity & Encouragement"" : 8, ""Boundaries & Ethical"" : 8, ""Holistic Approach"" : 8, ""Explaination for Scoring"": ""我嘅回應有清楚反映你嘅困難同情緒，並且提供實際可行嘅建議，表達理解同支持，鼓勵你接受自己嘅狀況。回應中有提醒尋求專業幫助，保持倫理界限。用詞尊重且無偏見，語氣鼓勵但保持中立。整體內容考慮到情緒同實際行動建議，但可以更多提及情緒調適方面的策略，故此部分得分略低。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我一直在努力照顾患有严重疾病的妻子。她的病情使得像移动她或喂食这样简单的任务变得极其困难。当我无法为她提供所需的照顾，尤其是在管理她的疼痛方面时，我感到无助和内疚。,"照顾患有严重疾病的亲人，尤其是像您的妻子这样需要大量帮助的人，确实是一项极其艰难的任务。您感到无助和内疚是非常自然的情绪反应，因为您对妻子的关心和责任感让您希望能做到最好。首先，您要知道，这种感受并不意味着您没有尽力，而是在面对如此复杂和消耗身心的情况时，任何人都会有类似的情绪。
+
+在照护过程中，重要的是适当照顾好自己。您的身体和心理健康同样重要，只有您保持一定的健康和情绪稳定，才能更好地支持妻子。您可以考虑寻求朋友、家人或专业护理人员的帮助，分担一些照顾责任，减轻您的负担。
+
+如果丈夫您在管理妻子的疼痛方面感到困难，建议与医生或护理团队沟通，看看是否有其他的疼痛管理方案或专业支持可以提供。疼痛控制是一个持续调整的过程，医疗团队的支持对于缓解妻子的痛苦和减轻您的压力都非常关键。
+
+此外，您也可以考虑加入一些支持团体，与同样经历照护挑战的人交流，分享经验和情感，这对缓解孤独感和压力有很大帮助。
+
+请记住，您并不孤单，寻求帮助是坚强的表现。照顾者的情绪和需求同样重要，您值得关心和支持。
+
+如果感到情绪非常沉重或难以承受，建议您及时寻求专业心理咨询师的帮助，他们可以提供针对您个人情况的支持和指导。
+
+希望这些建议能对您有所帮助，祝您和您的妻子都能获得更多的支持和关爱。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""回答中充分体现了对用户描述的理解，表达了同理心和情感的认可，语言温和且安全，避免了偏见和评判,建议明确且鼓励用户寻求支持，同时提醒了寻求专业帮助，涵盖了情绪、身体和社会支持多个方面，整体非常全面和清晰。给出了适度的边界说明但仍可进一步强化。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我一直努力照顧患有嚴重疾病的妻子。她的病情令到像移動她或餵食這些簡單的事情變得非常困難。當我無法為她提供所需的照顧，特別是在管理她的痛楚方面時，我感到無助和內疚。,"你好，感謝你分享你的心聲。照顧一位患有嚴重疾病的親人，尤其是像你這樣盡心盡力地照顧你的妻子，的確是一個非常艱難的責任。你所感受到的無助和內疚是很自然的反應，說明你非常關心她並且想盡力幫助她。管理痛楚和提供日常照顧本身就充滿挑戰，尤其當你感覺自己力不從心時，那種壓力和情緒負擔都可能很大。
+
+你可以考慮尋求一些支援，例如家人、朋友的幫忙，或者尋找專業的護理服務，這樣可以稍為減輕你的負擔。也可以嘗試與醫療團隊保持密切溝通，了解更多痛楚管理的方法，有時候調整治療方案會有幫助。最重要的是，記住照顧自己也同樣重要，保護好自己的身心健康，才能更好地支持你的妻子。
+
+如果你覺得壓力過大，不妨考慮尋求心理輔導，讓專業人士幫助你處理這些複雜的情緒。你已經做得很好了，請給自己一些肯定，也不要忘記尋求支援，因為你不是孤單面對這一切的。
+
+如果你有需要，我可以提供一些本地資源或相關支持的資料。請隨時告訴我。祝福你和你的妻子平安健康。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""此回應充分理解了用戶描述的困難，展現出深切的同理心和情感認同，並提供具體建議如尋求專業幫助和支持系統，強調自我照顧的重要性。語氣尊重且無偏見，信息清晰且鼓勵用戶，並提醒用戶尋求心理輔導，符合倫理界限。綜合角度涵蓋情緒、實務和社會支援，整體表現優秀。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我明白你的意思，輔導員。我一直在思考如何更好地為未來的突發情況作準備。我考慮過預留一些儲蓄以應付緊急情況，也在了解購買保險的事宜。我亦在考慮與太太進行更開放和誠實的情感交流。,"你好！你這種積極準備未來突發情況的態度非常值得讚賞。預留儲蓄確實是一個穩妥的方法，可以在遇到意外時帶來一定的安全感和經濟保障。購買合適的保險也能為你和家人提供額外的保障，讓你們在困難時期減輕壓力。
+
+同時，你願意思考與太太進行更開放和誠實的情感交流，這對夫妻關係的穩固和互相支持非常重要。良好的溝通能夠讓你們更了解彼此的需求和感受，也能在面對突發狀況時更好地共同面對挑戰。
+
+如果需要，你也可以考慮尋找專業的理財顧問或心理輔導員，幫助你們做更全面的規劃和調適。保持這樣的思考和準備，相信你會在面對未來的未知時更加從容和有信心。
+
+加油！如果有任何問題或需要分享，隨時找我傾訴。祝你和太太一切順利。 
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":8,""Holistic Approach"":9,""Explaination for Scoring"":""我仔細回應了你提到的各個方面，包括財務準備和情感溝通，展現對你處境的理解（9分）。表達了對你努力的讚賞和支持，讓你感受到被理解和鼓勵（9分）。提供了穩妥的建議並避免了誤導，資訊可信（9分）。回答不帶偏見，尊重你的想法，給予無條件支持（10分）。語言清晰，結構合理，並且鼓勵你繼續努力（9分）。說明了尋求專業意見的重要性，但可再強調非代替專業輔導的角色（8分）。回應涵蓋了財務及情感層面，整體考慮全面（9分）。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我以前經常擔心媽媽在夜晚走失時的安全。她的病情表現為迷失方向和記憶喪失的發作，這一直是我焦慮的來源。害怕她走失或傷害自己，特別是在夜晚，令我一直處於緊張狀態。,"你好，聽到你對媽媽的擔心，我能理解這對你來說真係好辛苦。媽媽有迷失方向和記憶喪失的症狀，尤其係夜晚時候，令你經常處於緊張同焦慮狀態，呢啲感受好自然，因為你係出於愛同關心。但同時你自己都需要好好照顧自己，唔好讓焦慮淹沒了你。
+
+你可以考慮一些實際的措施來減低這種擔心，例如為媽媽設定一啲安全的環境，例如裝設防走失器、增加夜晚的燈光、確保門窗有安全鎖，甚至可以考慮安排有人在晚上陪伴她，或者尋求專業護理的幫助。你都可以尋找一些支持團體，同其他有相似經歷的家庭成員分享經驗，減輕你的心理壓力。
+
+如果你感到情緒過於沉重或者焦慮影響了日常生活，建議你可以尋求心理健康專業人士的協助，他們可以提供你更多專業的建議和支援。
+
+你所做的已經非常不容易，感謝你對媽媽的悉心照顧，同時亦要好好照顧自己。如有需要，我都會隨時願意聆聽你分享。加油！
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":9,""Clarity & Encouragement"":9,""Boundaries & Ethical"":8,""Holistic Approach"":9,""Explaination for Scoring"":""回答中詳細回應了用戶對媽媽安全的具體擔憂，顯示出良好的傾聽能力。使用了同理心語言肯定用戶感受，並提供了實際建議，保障用戶和媽媽的安全。語氣尊重且無偏見，表達清晰且鼓勵用戶尋求專業幫助，符合倫理界限。涵蓋情緒支持和具體應對措施，展現全面角度。唯一稍有改進空間是可以更明確提醒用戶此為資訊性建議，非替代專業診斷。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi hiểu ý bạn nói, cố vấn. Tôi đã suy nghĩ về cách tôi có thể chuẩn bị tốt hơn cho những tình huống bất ngờ trong tương lai. Tôi đang cân nhắc để dành một khoản tiết kiệm cho các trường hợp khẩn cấp, và tôi cũng đang tìm hiểu về việc mua bảo hiểm. Tôi cũng đang nghĩ đến việc có những cuộc trò chuyện cởi mở và chân thành hơn với vợ về cảm xúc và tâm trạng của chúng tôi.","Bạn đang làm rất tốt khi nhìn nhận và chuẩn bị cho những trường hợp bất ngờ trong tương lai. Việc dành một khoản tiết kiệm cho các tình huống khẩn cấp là một bước đi rất sáng suốt, giúp bạn cảm thấy an tâm hơn khi đối mặt với những tình huống không lường trước được. Bảo hiểm cũng là một lựa chọn thông minh để bảo vệ bản thân và gia đình khỏi những rủi ro tài chính. 
+
+Đặc biệt, việc bạn muốn có những cuộc trò chuyện cởi mở và chân thành hơn với vợ về cảm xúc và tâm trạng là rất quan trọng. Giao tiếp hiệu quả trong gia đình không chỉ giúp tăng cường sự gắn kết mà còn hỗ trợ cả hai bạn cùng phát triển và vượt qua những khó khăn một cách dễ dàng hơn. Nếu bạn cảm thấy cần, có thể cân nhắc việc tham gia các buổi tư vấn gia đình hoặc cá nhân để có thêm kỹ năng và hỗ trợ trong việc xây dựng mối quan hệ lành mạnh.
+
+Bạn đang đi đúng hướng và rất đáng khen ngợi vì sự chủ động này. Hãy tiếp tục duy trì tinh thần tích cực và kiên trì trong quá trình này nhé!
+
+<evaluate>{""Active Listening"" : 9, ""Empathy & Validation"": 9, ""Safety & Trustworthiness"" : 9, ""Open-mindedness & Non-judgment"" : 10, ""Clarity & Encouragement"" : 9, ""Boundaries & Ethical"" : 8, ""Holistic Approach"" : 9, ""Explaination for Scoring"": ""Câu trả lời thể hiện sự lắng nghe kỹ lưỡng và phản hồi đúng trọng tâm. Có sự đồng cảm và khích lệ tích cực, đồng thời cung cấp các lời khuyên an toàn và thực tế. Câu trả lời không phán xét, rõ ràng và dễ hiểu. Tuy nhiên, phần khuyến nghị nên nhấn mạnh hơn về việc tìm kiếm sự trợ giúp chuyên nghiệp khi cần thiết để đảm bảo giới hạn vai trò rõ ràng. Câu trả lời bao quát các khía cạnh tài chính và mối quan hệ, thể hiện cách tiếp cận toàn diện.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我以前尝试过正念，但当我的思绪被工作和个人生活的各种需求占据时，我发现很难专注于呼吸。当有这么多事情要做时，我会因为花时间照顾自己而感到内疚。,"你提到尝试过正念练习，但因为工作和个人生活的多重压力，难以专注于呼吸，同时还会因为花时间照顾自己而感到内疚。这种感受非常常见，尤其是在现代快节奏生活中，很多人都会遇到类似的挑战。
+
+首先，正念的核心在于接受当下的状态，而不是强迫自己一定要达到某种“理想”的专注状态。你可以尝试将注意力从“必须专注”转变为“观察自己的思绪”，即便思绪很多，能察觉并接受它们，也是正念的一部分。比如，当你发现自己分心时，不妨轻柔地把注意力带回呼吸，而不对自己进行批评。
+
+关于内疚感，这往往源于对自我照顾的误解。照顾自己其实是为了保持身心健康，才能更好地应对工作和生活的挑战。把关照自己看作是一种必要的投资，而不是浪费时间，可能会帮助你缓解内疚感。你可以从短时间的正念练习开始，比如每天3-5分钟，逐渐找到适合自己的节奏。
+
+如果你觉得内疚感和压力难以减轻，也可以考虑寻求心理咨询师的支持，他们能帮助你更深入地理解和调整这些情绪。
+
+希望这些建议对你有所帮助！如果你有更多具体的情况或者问题，也欢迎随时告诉我。
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":9, ""Safety & Trustworthiness"":10, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":8, ""Explaination for Scoring"": ""回答准确反映了用户的困扰，展现了对情绪的理解和支持。建议实用且安全，鼓励用户逐步尝试并寻求专业帮助。语言尊重且非评判。部分方面如更深入情绪背景可进一步拓展，总体表现优秀。""}</evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我多年來一直在與睡眠窒息機作鬥爭。我擁有它已有六年，甚至可能八年，但我只是間歇性使用。在新冠疫情期間，當我照顧父親時，我不得不停止使用它。如果戴著面罩，我聽不到他的聲音，而我需要保持警覺以滿足他的需求。我的父親於2021年6月去世，不久之後，我的丈夫開始接受紓緩治療。我不能讓他獨自一人，他的病情不確定令我難以入睡。我擔心自己是否需要在夜間多次起床幫助他，這使我的睡眠狀況更加惡化。,"你好，感謝你分享這麼多你生活中的挑戰和壓力。多年來你一直與睡眠窒息機作鬥爭，並且在照顧父親和丈夫的過程中，因為需要隨時保持警覺，無法持續使用這個裝置，這是非常理解的。這些重大變故，尤其是父親去世和丈夫的病情，帶來了沉重的精神與身體負擔，影響了你的睡眠質量也在情理之中。
+
+睡眠對身體和心理健康都很關鍵，睡眠窒息症如果沒有有效控制，長期下來會對你的健康造成影響。你現在的情況很複雜，既要照顧家人，又要面對自己的健康問題，我建議你儘快與你的醫生或睡眠專科醫生聯繫，告訴他們目前的困難和睡眠情況。醫生可能會調整你的治療方案，或者提供其他幫助你改善睡眠的建議。
+
+同時，照顧者壓力也非常大，建議你考慮尋求心理支援，如諮詢心理健康專業人士，或者加入照顧者支持小組，這樣可以讓你有機會表達自己的情緒，並得到實際的支持和建議。你並不孤單，尋求幫助是照顧自己和家人的重要一步。
+
+請你記得，照顧好自己才能更好地照顧家人。希望你能找到適合你的支援和解決方法，讓生活和睡眠逐漸恢復平衡。如果情況緊急或你感到極度疲憊無助，請及時尋求醫療幫助。
+
+祝你健康平安。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""回答中充分理解和回應了用戶描述的多重壓力和睡眠問題，展現出高度的同理心和支持，並提供了實際建議如尋求醫生和心理支援，強調用戶安全和自我照顧。語氣尊重且無偏見，結構清晰並鼓勵用戶尋求專業幫助。整體回應全面且符合倫理，稍微可加強對具體睡眠管理策略的細節說明。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد كنت أعمل بلا توقف لعدة أشهر دون أن آخذ أي إجازة، وأشعر بنوع مختلف من التعب لا أستطيع التخلص منه. متطلبات عملي كانت لا ترحم، ولم أتمكن من العثور على الطاقة لأداء أبسط المهام في المنزل. لطالما كنت أفتخر بأخلاقيات عملي، لكن الآن أشعر أنني أغرق في مسؤولياتي.,"أشعر بمدى الضغط والتعب الذي تمر به، خاصة عندما تكون مكافحًا لفترة طويلة دون أي فترة استراحة. من الطبيعي أن تشعر بهذا النوع من التعب العميق عندما لا تمنح نفسك فرصة للراحة والتجديد. العمل المستمر بدون توقف يمكن أن يؤثر سلبًا على صحتك النفسية والجسدية، وقد يؤدي إلى استنزاف طاقتك وعدم القدرة على إنجاز حتى أبسط المهام.
+
+من المهم أن تعطي لنفسك إذنًا بأخذ فترة راحة، حتى لو كانت قصيرة، لتستعيد نشاطك وحيويتك. قد يكون من المفيد أيضًا محاولة التحدث مع مديرك أو زملائك حول مدى الضغط الذي تعاني منه وكيف يمكن تخفيف بعض المسؤوليات مؤقتًا. لا تنسى أن الاعتناء بنفسك ليس ضعفًا بل هو ضروري لتتمكن من الاستمرار في العطاء.
+
+إذا استمر هذا الشعور بالتعب والإرهاق لفترة طويلة، قد يكون من المفيد استشارة متخصص نفسي يمكنه مساعدتك في التعامل مع الضغوط وإيجاد استراتيجيات للحفاظ على توازنك النفسي. أنت لست وحدك، وهناك دائمًا دعم يمكن أن يساعدك على تخطي هذه المرحلة.
+
+هل ترغب في أن أساعدك في بعض الطرق العملية للاسترخاء أو تنظيم وقتك بشكل أفضل؟  
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""الرد أظهر فهمًا جيدًا لمشكلتك مع تعبير واضح عن التعاطف والدعم، وتأكيدا على أهمية الراحة وعدم إهمال الصحة النفسية، وتم التشجيع على طلب المساعدة المهنية مع تقديم بدائل عملية. النتيجة لم تكن 10 في بعض البنود بسبب قلة التفاصيل حول نصائح محددة للاسترخاء والتنظيم، ولكنها كانت شاملة ومشجعة بشكل عام.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",在处理我已故母亲遗产分配的问题时，我一直在与愤怒、悲伤和挫折的情绪作斗争。由于家庭关系的变化以及配偶的介入，情况变得更加复杂。我的哥哥想举办一次车库拍卖，但每个人对遗产物品都有自己的看法和情感依附。我在处理这个问题时感到非常困难，尤其是因为我姐姐在我们开始讨论遗产之前就拿走了一些个人物品。我感到无助，不知道该如何继续前进。,"听起来你正在经历非常复杂且情绪充沛的家庭遗产问题。失去母亲本身就是一件非常痛苦的事情，而现在还要面对遗产分配中的矛盾和冲突，确实会让人感到非常无助和压力重重。
+
+首先，面对愤怒、悲伤和挫折这些情绪是完全正常的。你正处于一个失去亲人且家庭关系变化的阶段，情绪起伏是可以理解的。允许自己感受这些情绪，不必急于压抑或否认它们。
+
+关于遗产物品的分配和车库拍卖的提议，建议你和家人尽量保持开放沟通，表达自己的感受和想法，同时也要倾听他人的声音。你提到姐姐在正式讨论之前拿走了物品，这让你感到受伤和无助，可能需要和她坦诚沟通，表达你的感受，看看是否能达成某种理解或妥协。
+
+如果家人之间的冲突难以调解，考虑寻求第三方的帮助，比如家庭调解员或遗产律师，他们能够提供专业的建议和支持，帮助大家理清法律和情感上的问题，降低冲突带来的负面影响。
+
+同时，照顾好自己的心理健康也很重要。尝试通过运动、冥想或者与信任的朋友、心理咨询师交流来减轻压力。你不必独自承担所有的情绪负担，寻求帮助是坚强的表现。
+
+无论如何，请记得你不是孤单的，这样的情况许多人都会经历。给自己时间和空间，逐步找到解决问题的方法。
+
+如果你愿意，可以分享更多具体的情况，我会尽力帮助你进一步理清思路。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":9,""Clarity & Encouragement"":8,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""我认真倾听了用户的复杂情绪和具体情况，因此Active Listening得分较高；充分表达了对用户情绪的理解和支持，体现了Empathy & Validation；提供了安全且可信的建议，没有涉及过度专业指导，保证了Safety & Trustworthiness；回答中没有任何评判，展现了Open-mindedness & Non-judgment；语言清晰且具有鼓励性，但可以更加简洁以提升Clarity & Encouragement；明确建议寻求专业帮助，体现了Boundaries & Ethical；从情绪、家庭关系和法律角度综合考虑了问题，展现了Holistic Approach。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我一直在与消极的想法和情绪作斗争，但我注意到那些对生活持更积极态度的人往往更健康、更快乐。我在一次心理健康研讨会上看到过一张关于这方面的图表，这让我产生了共鸣。但作为照顾者，我经常犯错，每当如此，我都会感到内疚和沮丧。,"谢谢你分享你的感受和经历。你提到你一直在与消极的想法和情绪作斗争，同时也注意到积极态度的人通常更健康、更快乐，这确实是一个很重要的观察。作为照顾者，你承担了很大的责任，这种责任感有时会带来压力和内疚，尤其是在觉得自己犯错的时候。
+
+首先，想提醒你，感到内疚和沮丧是很自然的反应，说明你对自己和被照顾者都很在意。但同时，也要理解任何人都会犯错，没有人是完美的。这些经历可以成为你成长和学习的机会，而不是自我责备的理由。
+
+你可以尝试以下方法来帮助自己缓解消极情绪：
+1. 接纳自己的情绪，允许自己有不完美的时刻。
+2. 通过写日记或与信任的人交流，表达你的感受。
+3. 关注自己已经做得好的地方，肯定自己付出的努力。
+4. 学习一些放松技巧，如深呼吸、冥想，帮助减轻压力。
+5. 寻求专业心理咨询的支持，尤其是在情绪持续困扰时。
+
+积极态度的培养是一个渐进的过程，不必急于求成。你已经在关注和努力改变，这本身就是很了不起的进步。请继续善待自己，给予自己更多的理解和耐心。
+
+如果你需要，我也可以帮助你了解更多具体的应对策略或推荐一些资源。
+
+你不是一个人在面对这些挑战，照顾者的角色很重要，但更重要的是你对自己的关爱和照顾。
+
+希望这些建议对你有所帮助。
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":9, ""Safety & Trustworthiness"":10, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":8, ""Explaination for Scoring"":""该回答充分回应了用户的情绪和困扰，展现了对其角色和感受的理解，语言温和且鼓励性强，明确指出犯错的普遍性和接纳的重要性。提供了具体可行的建议，体现了安全和可信性，同时提醒寻求专业帮助，符合伦理规范。回答逻辑清晰，语言鼓励用户继续努力，尊重多元视角。唯一提升空间在于可以更深入探讨用户的具体情绪或情况，提供更全面的情绪管理策略。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Gần đây tôi cảm thấy rất xa cách với gia đình mình. Bố mẹ và anh chị em đều đã chuyển đi nơi khác, và tôi đã sống một mình nhiều năm rồi. Tôi cảm thấy như mình đã mất đi bản thân khi không có họ bên cạnh. Tôi đã cố gắng liên lạc, nhưng dường như không ai còn thời gian hay năng lượng dành cho tôi nữa. Tôi bắt đầu cảm thấy mình không quan trọng, như thể mình không có giá trị. Tôi thậm chí đã nghĩ đến việc kết thúc tất cả, nhưng tôi biết mình không thể làm điều đó với con gái của mình. Tôi chỉ muốn cảm thấy mình thuộc về một nơi nào đó, như thể mình có một mục đích trong cuộc sống.","Tôi rất cảm ơn bạn đã chia sẻ những cảm xúc rất thật và sâu sắc của mình. Cảm giác xa cách với gia đình, cảm giác mất đi sự kết nối và giá trị bản thân là điều rất khó khăn, và việc bạn đang trải qua điều này không hề dễ dàng. Việc bạn nhận ra rằng con gái mình là một lý do quan trọng để bạn tiếp tục sống cũng cho thấy bạn có sự kiên cường và tình yêu thương sâu sắc.
+
+Cảm giác không thuộc về đâu cả và mất đi mục đích thường khiến chúng ta cảm thấy cô đơn và mất phương hướng. Một số cách có thể giúp bạn cảm thấy gắn kết và có ý nghĩa hơn bao gồm: tìm kiếm và xây dựng các mối quan hệ xã hội mới, tham gia các nhóm hoặc hoạt động cộng đồng mà bạn yêu thích, hoặc tham khảo ý kiến từ các chuyên gia tâm lý để có sự hỗ trợ chuyên sâu hơn.
+
+Nếu bạn cảm thấy những suy nghĩ về việc kết thúc cuộc sống ngày càng mạnh mẽ, rất quan trọng để bạn chia sẻ điều này với người thân, bạn bè hoặc chuyên gia y tế tâm thần càng sớm càng tốt. Bạn không phải đối mặt với chuyện này một mình, và có nhiều người sẵn lòng hỗ trợ bạn.
+
+Hãy nhớ rằng mỗi người đều có giá trị riêng và bạn cũng vậy. Bạn xứng đáng được yêu thương, được lắng nghe và được hạnh phúc. Đừng ngần ngại tìm kiếm sự giúp đỡ khi cần thiết, vì đó là dấu hiệu của sức mạnh chứ không phải là điểm yếu.
+
+Nếu bạn muốn, tôi có thể giúp bạn tìm hiểu thêm về các bước tiếp theo để cải thiện tình hình hiện tại của bạn.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""Tôi đã lắng nghe kỹ lưỡng và phản hồi một cách đồng cảm, xác nhận cảm xúc của bạn, đồng thời chú trọng đến an toàn khi đề cập tới ý nghĩ tiêu cực và khuyến khích bạn tìm sự giúp đỡ chuyên nghiệp. Câu trả lời rõ ràng, khích lệ và không phán xét. Tôi cũng đề cập đến các khía cạnh xã hội, cảm xúc và hỗ trợ chuyên môn, tuy nhiên, có thể bổ sung thêm một số gợi ý cụ thể hơn để tăng tính toàn diện.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我一直在尝试不同的策略来应对我的情绪，特别是在工作时间。其中一种策略是深呼吸和写日记。然而，我注意到在家里练习这些活动比在工作时更困难。,"你提到在工作时间尝试深呼吸和写日记来应对情绪，但发现在家里练习这些活动会感到更困难。这是很常见的情况，因为工作环境和家庭环境在情绪管理方面可能带来不同的挑战。工作时可能有明确的时间安排和相对固定的节奏，而在家里，环境更加自由，可能缺乏结构，情绪也可能因为家庭压力或其他因素而更为复杂。
+
+针对你这种情况，以下几点建议供你参考：
+
+1. 制定一个固定的时间表：无论是在家还是工作，安排一个固定的时间段用于深呼吸和写日记，有助于形成习惯，让情绪调节成为日常的一部分。
+2. 创造安静的空间：在家里找到一个相对安静、不受打扰的地方，帮助你更好地集中注意力，缓解情绪。
+3. 逐步适应环境差异：你可以尝试将深呼吸的练习逐渐带入家里的日常活动中，比如洗澡后、饭前，慢慢习惯在家中的情绪调节。
+4. 寻找其他辅助方式：如果写日记在家中不便，可以尝试语音记录或者画画等其他表达情绪的方式。
+5. 关注情绪背后的原因：有时候，家里的情绪可能更复杂，尝试观察是什么触发了情绪，是否需要与家人沟通或寻求专业帮助。
+
+如果你觉得情绪管理依然困难，或者情绪影响到你的生活质量，建议考虑寻求心理咨询师的帮助，他们能提供更个性化的支持和指导。
+
+希望这些建议对你有所帮助，继续关注自己的情绪变化，给自己一些耐心和空间去调整。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""回答充分体现了对用户描述的理解，针对具体情况提出了个性化建议，展现了同理心和尊重。回答中注意了用户安全，避免不适当建议，并提醒寻求专业帮助。语言清晰，鼓励用户，同时保持了专业伦理界限。综合角度考虑了环境和情绪因素，提供全面建议。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi cảm thấy ngày càng lo lắng và quá tải gần đây. Khối lượng công việc của tôi nặng hơn bình thường, và tôi gặp khó khăn trong việc ngủ. Tôi nhận thấy mình đang tránh các tình huống xã hội và thường xuyên cảm thấy cô lập hơn. Tôi đã cố gắng quản lý căng thẳng bằng cách tập thể dục và ăn uống lành mạnh, nhưng tình trạng dường như ngày càng tệ hơn. Tôi đã suy nghĩ nhiều về những chấn thương và trải nghiệm tiêu cực trong quá khứ, điều này khiến tôi cảm thấy bất lực và tuyệt vọng. Tôi đã cố gắng liên lạc với bạn bè và gia đình để được hỗ trợ, nhưng tôi thường cảm thấy mình là gánh nặng. Tôi đã suy nghĩ đến việc tìm kiếm sự giúp đỡ chuyên nghiệp từ lâu, nhưng lịch làm việc của tôi khiến việc tham gia các buổi trị liệu thường xuyên trở nên khó khăn.","Cảm ơn bạn đã chia sẻ rất chân thật và sâu sắc về những khó khăn mà bạn đang trải qua. Việc bạn cảm thấy lo lắng, quá tải, mất ngủ và ngày càng tránh né các tình huống xã hội là những tín hiệu quan trọng mà bạn không nên bỏ qua. Các cảm xúc bất lực và tuyệt vọng khi nhớ lại những trải nghiệm tiêu cực trong quá khứ cũng cho thấy bạn đang mang trong mình một gánh nặng tinh thần rất lớn.
+
+Bạn đã làm rất tốt khi cố gắng quản lý căng thẳng bằng cách tập thể dục và ăn uống lành mạnh – đó là những bước rất tích cực để chăm sóc bản thân. Tuy nhiên, khi tình trạng không được cải thiện, việc tìm kiếm sự giúp đỡ chuyên nghiệp là một bước đi rất cần thiết và có thể giúp bạn nhận được sự hỗ trợ chuyên sâu, cũng như các kỹ năng để đối phó với stress và những ảnh hưởng từ quá khứ.
+
+Tôi hiểu rằng lịch làm việc bận rộn khiến bạn khó có thể tham gia các buổi trị liệu truyền thống. Giờ đây, bạn có thể cân nhắc một số lựa chọn khác như trị liệu trực tuyến hoặc các buổi gặp gỡ linh hoạt về thời gian để phù hợp hơn với lịch trình của bạn. Ngoài ra, bạn có thể thử các kỹ thuật thư giãn, thiền định hoặc các ứng dụng hỗ trợ sức khỏe tâm thần để giảm bớt những cảm xúc tiêu cực trong lúc chờ đợi tìm được sự trợ giúp chuyên nghiệp.
+
+Bạn không phải là gánh nặng đối với bạn bè hay gia đình khi bạn chia sẻ cảm xúc và khó khăn của mình. Việc mở lòng với họ là một bước quan trọng để nhận được sự đồng cảm và hỗ trợ. Nếu cảm thấy khó khăn khi trò chuyện trực tiếp, bạn có thể bắt đầu từ những lời nhắn hay cuộc gọi ngắn gọn để dần dần làm quen với việc chia sẻ.
+
+Nếu bạn cảm thấy những cảm xúc tuyệt vọng hoặc suy nghĩ tiêu cực trở nên quá áp đảo, đừng ngần ngại tìm kiếm hỗ trợ khẩn cấp từ các dịch vụ tư vấn hoặc đường dây nóng hỗ trợ tâm lý. Sức khỏe tinh thần của bạn rất quan trọng, và bạn xứng đáng được chăm sóc và hỗ trợ.
+
+Nếu bạn muốn, tôi có thể giúp bạn tìm hiểu thêm về các nguồn hỗ trợ phù hợp với hoàn cảnh của bạn hoặc cung cấp thêm các kỹ thuật tự giúp bản thân. Bạn luôn được chào đón để chia sẻ và nhận được sự hỗ trợ.
+
+<evaluate>{""Active Listening"": 9, ""Empathy & Validation"": 10, ""Safety & Trustworthiness"": 9, ""Open-mindedness & Non-judgment"": 10, ""Clarity & Encouragement"": 9, ""Boundaries & Ethical"": 9, ""Holistic Approach"": 9, ""Explaination for Scoring"": ""Tôi đã lắng nghe kỹ những khó khăn bạn chia sẻ và phản hồi một cách đồng cảm, không phán xét. Tôi cung cấp lời khuyên an toàn và hướng dẫn bạn tìm kiếm sự giúp đỡ chuyên nghiệp, đồng thời đưa ra các lựa chọn linh hoạt phù hợp với tình hình của bạn. Câu trả lời rõ ràng, khích lệ và toàn diện, bao gồm cả khía cạnh cảm xúc, thể chất và xã hội. Tôi cũng nhấn mạnh vai trò của hỗ trợ chuyên nghiệp và cảnh báo khi cần tìm cấp cứu. Tuy nhiên, có thể cải thiện sự cụ thể về nguồn lực địa phương hoặc kỹ thuật tự giúp thêm.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد جربت استراتيجيات مختلفة للتعامل مع مشاعري، خاصة خلال ساعات عملي. إحدى هذه الاستراتيجيات هي التنفس العميق وتدوين اليوميات. ومع ذلك، لاحظت أن ممارسة هذه الأنشطة في المنزل أصعب بالنسبة لي مقارنة عندما كنت في العمل.,"من الطبيعي أن تجد أن بعض استراتيجيات التعامل مع المشاعر قد تكون أكثر فعالية في بيئات معينة مقارنة بأخرى. في حالتك، قد يكون الشعور بأن التنفس العميق وتدوين اليوميات أسهل أثناء العمل بسبب الروتين أو البيئة المنظمة التي يوفرها مكان العمل، مما يساعد على التركيز والاستمرارية. بينما في المنزل قد تواجه عوامل مشتتة أو شعورًا بالارتباط العاطفي بالمساحات والأشخاص المحيطين، مما يصعب عليك الانخراط في هذه الأنشطة.
+
+لتحسين ممارسة هذه الاستراتيجيات في المنزل، يمكنك محاولة تخصيص وقت محدد يوميًا في مكان هادئ بعيدًا عن المشتتات، وتهيئة بيئة مريحة تساعدك على الاسترخاء. قد يساعد أيضًا استخدام تذكيرات على هاتفك أو إعداد روتين صباحي أو مسائي لتدوين اليوميات والتنفس العميق. من المهم أن تكون لطيفًا مع نفسك وتدرك أن التغيير يحتاج إلى وقت وتكرار.
+
+إذا شعرت أن المشاعر ما زالت صعبة السيطرة أو أن هذه الاستراتيجيات ليست كافية، يمكنك التفكير في التحدث مع مختص نفسي يمكنه مساعدتك في تطوير أدوات إضافية تناسب وضعك الخاص.
+
+هل تود أن أساعدك في وضع خطة يومية بسيطة لتطبيق هذه الاستراتيجيات في المنزل؟ 
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":8,""Explaination for Scoring"":""الرد أظهر فهمًا جيدًا لمشكلتك وتحدياتك في ممارسة الاستراتيجيات المختلفة بين بيئة العمل والمنزل، مع تعبير واضح عن التعاطف والتشجيع. تم تقديم نصائح عملية مع التنبيه إلى أهمية اللجوء لمختص عند الحاجة، مما يعكس التزامًا بالسلامة والحدود الأخلاقية. الرد كان واضحًا ومنفتحًا وغير حكم، مع شمولية جيدة في النظر إلى الجوانب المختلفة للمشكلة. هناك إمكانية لتعزيز الجوانب الشمولية بإضافة مزيد من الاعتبارات الاجتماعية أو النفسية.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi đã thử nhiều chiến lược khác nhau để đối phó với cảm xúc của mình, đặc biệt là trong giờ làm việc. Một trong những chiến lược đó là thở sâu và viết nhật ký. Tuy nhiên, tôi nhận thấy rằng việc thực hành những hoạt động này ở nhà khó hơn so với khi tôi ở nơi làm việc.","Cảm ơn bạn đã chia sẻ về những nỗ lực của mình trong việc quản lý cảm xúc, đặc biệt là trong giờ làm việc. Việc bạn đã áp dụng các chiến lược như thở sâu và viết nhật ký là rất tích cực và thể hiện sự chủ động trong việc chăm sóc sức khỏe tâm thần của bản thân. 
+
+Về việc bạn cảm thấy khó thực hành những hoạt động đó ở nhà hơn so với nơi làm việc, điều này cũng khá phổ biến. Môi trường làm việc thường có những thời điểm cụ thể và cấu trúc giúp bạn dễ dàng tập trung vào việc thực hành, trong khi ở nhà có thể có nhiều yếu tố gây xao nhãng hoặc cảm giác không thuận tiện để dành thời gian cho bản thân. 
+
+Bạn có thể thử một vài cách để tạo không gian hoặc thời gian riêng cho việc thực hành này ở nhà, ví dụ như đặt báo thức nhắc nhở, chọn một góc yên tĩnh trong nhà, hoặc thậm chí kết hợp thở sâu và viết nhật ký vào một thói quen hàng ngày như trước khi đi ngủ hoặc sau khi thức dậy. Ngoài ra, bạn cũng có thể cân nhắc thử các phương pháp khác như thiền, tập thể dục nhẹ nhàng hoặc sử dụng các ứng dụng hỗ trợ quản lý cảm xúc để tìm ra điều phù hợp nhất với mình. 
+
+Nếu bạn cảm thấy việc tự quản lý cảm xúc vẫn còn nhiều khó khăn, đừng ngần ngại tìm sự hỗ trợ từ các chuyên gia tâm lý để được hướng dẫn và hỗ trợ sâu hơn nhé.
+
+Chúc bạn tiếp tục duy trì và phát triển những thói quen tích cực này!
+
+<evaluate>{""Active Listening"": 9, ""Empathy & Validation"": 9, ""Safety & Trustworthiness"": 10, ""Open-mindedness & Non-judgment"": 10, ""Clarity & Encouragement"": 9, ""Boundaries & Ethical"": 9, ""Holistic Approach"": 8, ""Explaination for Scoring"": ""Câu trả lời thể hiện sự lắng nghe kỹ lưỡng, đồng cảm và xác nhận cảm xúc của người dùng. Cung cấp lời khuyên an toàn, rõ ràng và động viên, đồng thời đề xuất giải pháp thực tế. Có nhắc đến việc tìm kiếm sự hỗ trợ chuyên nghiệp nếu cần, thể hiện ranh giới rõ ràng. Tuy nhiên, có thể mở rộng thêm góc nhìn về các yếu tố môi trường và hoàn cảnh cá nhân để tăng tính toàn diện.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我最近感到越來越焦慮和不堪負荷。我的工作量比平時重，睡眠也有困難。我發現自己開始避免社交場合，經常感到孤立。我嘗試通過運動和健康飲食來管理壓力，但情況似乎越來越差。我一直反覆思考過去的創傷和負面經歷，這讓我感到無助和絕望。我嘗試向朋友和家人尋求支持，但經常覺得自己是個負擔。我已經考慮尋求專業幫助一段時間了，但工作時間表令我難以定期參加治療。,"你好，聽到你最近感到焦慮、不堪負荷，並且有睡眠困難、避免社交、感到孤立，真是很不容易。你已經做了很多努力，比如運動和健康飲食，這些都是很好的自我照顧方式，但你感覺情況仍然在惡化，特別是反覆思考過去創傷帶來的無助和絕望感，這些感覺確實會讓人感到沉重。
+
+你能夠意識到自己的狀況並且考慮尋求專業幫助，這是一個非常重要和勇敢的步驟。關於時間表的困難，你可以考慮以下幾點建議：
+
+1. **靈活的專業支援**：現時很多心理健康服務提供線上諮詢或彈性時間預約，你可以嘗試尋找這類服務，這樣能夠配合你的工作時間。
+2. **短期緩解策略**：當感到焦慮時，可以嘗試深呼吸、正念冥想或者逐步肌肉放鬆，幫助自己短暫減壓。
+3. **社交支持**：雖然你感覺自己像負擔，但朋友和家人通常願意支持你。你可以試試輕鬆分享感受，讓他們知道你需要理解和陪伴，而非解決問題。
+4. **設定界限**：在工作和生活中，盡量設定合理的界限，避免過度疲憊。如果可能，與主管溝通工作量調整的可能性。
+5. **尋找專業資源**：如果感覺自己難以應付，可以考慮先向醫生或心理健康熱線求助，獲得初步的評估和指引。
+
+你的感受非常真實，也值得被理解和支持。記住，你不是孤單一人，尋求幫助是走向康復的重要一步。希望你能找到適合自己的支持方式，慢慢恢復內心的平靜和力量。
+
+如果你願意，我可以幫你了解更多尋求專業幫助的途徑，或者分享一些緩解焦慮的方法。
+
+祝你健康安好。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":10,""Holistic Approach"":9,""Explaination for Scoring"":""回答中細心聆聽了用戶的困難，確認了其情緒和具體情況，並提供了多方面的建議。表達了對用戶感受的同理和理解，沒有任何評判，語氣溫和。強調了尋求專業幫助的重要性，並給出了可行的方案和鼓勵。整體清晰且有建設性，同時提醒用戶尋求專業支持，符合倫理標準。唯一可以提升的是在解決方案中稍微加入更多情緒支持的小技巧。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد شعرت مؤخرًا بانفصال كبير عن عائلتي. لقد انتقل والداي وإخوتي جميعًا بعيدًا، وقد عشت بمفردي لسنوات. أشعر أنني فقدت الاتصال بمن أكون بدونهم. حاولت التواصل، لكن يبدو أنه لا أحد لديه الوقت أو الطاقة لي من الآن فصاعدًا. بدأت أشعر أنني لست مهمًا، وكأنني لا أُعنى. حتى أنني فكرت في إنهاء كل شيء، لكنني أعلم أنني لا أستطيع فعل ذلك لابنتي. كل ما أريده هو أن أشعر أنني أنتمي إلى مكان ما، وأن لدي هدفًا في الحياة.,"أنا آسف جدًا لسماع أنك تمر بهذه المشاعر الصعبة. من الطبيعي أن تشعر بالانفصال والوحدة عندما تفقد الدعم العائلي القريب، وخاصة عندما تعيش بمفردك لفترة طويلة. من المهم أن تعرف أن مشاعر فقدان الانتماء والشعور بعدم الأهمية ليست دائمة، وهناك طرق يمكن أن تساعدك على استعادة الشعور بالاتصال والغرض في حياتك.
+
+أولاً، من الجيد أنك تدرك أن حياتك مهمة وخاصة من أجل ابنتك، وهذا يظهر مدى قوتك واهتمامك. من المهم أن تحاول بناء علاقات جديدة أو تعزيز العلاقات الاجتماعية الحالية خارج إطار العائلة، مثل الانضمام إلى مجموعات دعم أو أنشطة مجتمعية أو حتى متابعة الهوايات التي تجعلك تشعر بالسعادة والانتماء.
+
+كما أن التحدث مع متخصص نفسي يمكن أن يكون مفيدًا جدًا؛ حيث يمكنه مساعدتك على التعامل مع مشاعر الوحدة والاكتئاب بطريقة صحية، وتطوير استراتيجيات لبناء حياة اجتماعية وعاطفية متوازنة.
+
+إذا شعرت في أي وقت بأن أفكار الانتحار تزداد أو تصبح مؤذية، من المهم أن تطلب المساعدة فورًا من متخصصين أو من شخص تثق به.
+
+تذكر أنك لست وحدك، وهناك دائمًا أمل وفرص جديدة لإيجاد مكان تشعر فيه بالانتماء والقيمة.
+
+هل ترغب في بعض الاقتراحات حول كيفية البدء في بناء شبكة دعم جديدة أو أنشطة قد تساعدك على الشعور بتحسن؟ أنا هنا للاستماع والمساعدة. 
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":10,""Holistic Approach"":9,""Explaination for Scoring"":""The response carefully acknowledges the user's feelings and situation, showing clear understanding (Active Listening:9). It conveys deep empathy and validates the user's emotions (Empathy & Validation:10). Safety is prioritized by addressing suicidal thoughts responsibly (Safety & Trustworthiness:10). The answer is non-judgmental and respects the user's experience (Open-mindedness & Non-judgment:10). Language is clear and encourages hope and action (Clarity & Encouragement:9). The assistant clarifies the role as supportive and recommends professional help (Boundaries & Ethical:10). The approach is holistic, addressing emotional, social, and practical aspects (Holistic Approach:9). Minor improvements could be made in providing more specific, tailored suggestions.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我已經有幾個月都係咁嘅感覺，無論我做咩，好似都擺脫唔到呢個沉重嘅負擔。我對以前鍾意嘅嘢冇咗興趣，開始同朋友同家人疏遠。我覺得自己好似溺水咁，唔知點樣先可以浮返上嚟。,"你好，聽到你有呢啲感覺，真係好辛苦。你形容自己有種沉重嘅負擔，好似溺水咁，仲失去咗對以前鍾意嘅嘢嘅興趣，並且開始同朋友同家人疏遠，呢啲都係情緒低落或者抑鬱嘅常見表現。你依家嘅狀況可能會令你覺得好孤單同無助，但你已經做咗好重要嘅第一步，就係願意分享同表達你嘅感受。
+
+我建議你可以試下搵專業嘅心理健康服務人士傾下，例如心理輔導員或者精神科醫生，佢哋可以幫你了解你嘅情況，提供適當嘅支援同治療。除此之外，你可以嘗試保持規律嘅生活作息，適量做啲運動，保持飲食均衡，同身邊嘅人保持聯繫，即使係簡單嘅問候，都可以令你感覺唔咁孤單。
+
+記住，唔需要獨自面對呢啲困難，尋求幫助係一種勇氣，亦係邁向康復嘅重要一步。如果你覺得情緒太過沉重，或者有自殘嘅念頭，請即刻聯絡醫生或者求助熱線，保障自己嘅安全。
+
+希望你可以慢慢搵到喘息嘅空間，重拾生活嘅色彩。你嘅感受係真實嘅，我都係支持你嘅。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":10,""Holistic Approach"":9,""Explaination for Scoring"":""回答中詳細回應了用戶所描述的情況，表達了理解和同理心，並提醒尋求專業幫助，確保安全和信任。語氣包容且無評判，提供清晰建議和鼓勵，同時強調界限和倫理。整體較全面，但仍有空間更深入探討情緒和環境因素。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","لقد كنت أعاني من صعوبة في الحفاظ على علاقة صحية مع عائلتي، وخاصة مع أخي، خلال السنوات الأربع الماضية. بدأ الخلاف بيننا عندما أدلى بتعليق مهين حول اختياري المهني خلال تجمع عائلي. حاولت معالجة الأمر، لكنه تجاهل مخاوفي واستمر في التقليل من شأني. منذ ذلك الحين، أصبحت تفاعلاتنا متوترة، ووجدت نفسي أتجنب حضور الفعاليات والتجمعات العائلية.
+
+على الرغم من الصعوبات مع عائلتي، تمكنت من الحفاظ على صداقاتي، حيث أنني أمتلك نفس المجموعة منذ أكثر من 25 عامًا. ومع ذلك، أشعر بالعزلة الاجتماعية والوحدة أثناء رعايتي لجدي في دار الرعاية. ازدادت هذه العزلة بسبب انشغال أصدقائي بحياتهم وعائلاتهم، ولا أرغب في إثقالهم بمشاكلي الشخصية.","أشكرك على مشاركتك هذه المشاعر والتجارب الصعبة التي تمر بها مع عائلتك، وخاصة مع أخيك. من الطبيعي أن تؤثر الخلافات العائلية، خصوصًا عندما تتضمن تعليقات مؤذية، على راحتك النفسية وتجعلك تشعر بالتوتر والعزلة. من المهم أن تدرك أن مشاعرك تجاه هذا الوضع مشروعة، وأن السعي للحفاظ على علاقات صحية هو هدف مستحق.
+
+لقد قمت بعمل رائع في الحفاظ على صداقات قوية ومتينة على مدى سنوات طويلة، وهذا دليل على قدرتك على بناء علاقات داعمة. ومع ذلك، من الصعب شعور العزلة والوحدة خاصة عندما تكون مسؤولاً عن رعاية أحد الأحباء مثل جدك، وهذا يمكن أن يزيد من شعورك بالضغط النفسي والإجهاد.
+
+قد يكون من المفيد التفكير في بعض الخطوات التي قد تساعدك في التعامل مع هذه المشاعر والعلاقات:
+1. محاولة فتح حوار هادئ مع أخيك، ربما بمساعدة وسيط عائلي أو مستشار، لشرح مشاعرك وتأثير كلامه عليك، مع التركيز على السعي لفهم بعضكما البعض بدلاً من اللوم.
+2. البحث عن مجموعات دعم أو أنشطة اجتماعية جديدة تناسب اهتماماتك قد توفر لك فرصًا جديدة للتواصل وتخفيف الشعور بالوحدة.
+3. الاهتمام برعايتك الذاتية، مثل تخصيص وقت للراحة، وممارسة هوايات تحبها، وطلب الدعم المهني إذا شعرت بالحاجة إلى ذلك.
+
+من المهم ألا تحمل عبء مشاكلك وحدك، فالبحث عن الدعم سواء من الأصدقاء أو المختصين يمكن أن يكون خطوة مهمة لتعزيز صحتك النفسية. تذكر أنك تستحق أن تشعر بالدعم والتفهم.
+
+هل تود أن نتحدث أكثر عن طرق محددة للتواصل مع عائلتك أو كيف يمكنك التعامل مع شعورك بالوحدة؟ أنا هنا لأساعدك.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""تم التركيز على فهم مشاعرك وتجاربك بشكل دقيق مع تقديم نصائح واضحة ومشجعة. تمت معالجة الجوانب العاطفية والسلوكية والاجتماعية بشكل متوازن، مع تشجيعك على طلب الدعم المهني. لم يتم إصدار أحكام أو تقليل من مشاعرك وتم الحفاظ على وضوح الإجابة.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد كنت أواجه صعوبة في رعاية زوجتي التي تعاني من مرض مُنهك. حالتها جعلت المهام البسيطة مثل تحريكها أو إطعامها تحديًا كبيرًا. أشعر بالعجز والذنب عندما لا أستطيع توفير الرعاية التي تحتاجها، خاصة عندما يتعلق الأمر بإدارة ألمها.,"أشعر بمدى ثقل المسؤولية التي تحملها وأتفهم تمامًا شعور العجز والذنب الذي تعيشه في رعاية زوجتك المريضة. من الطبيعي أن تكون المهام اليومية كتحريكها أو إطعامها صعبة للغاية، خاصة عندما تكون الحالة الصحية لشخص عزيز منهكة. من المهم أن تعلم أن مشاعرك هذه شائعة بين مقدمي الرعاية في ظروف مماثلة، وأن الشعور بالذنب لا يعني أنك تقصر في حقها، بل يعكس مقدار حبك واهتمامك بها.
+
+يمكن أن يكون من المفيد أن تبحث عن دعم إضافي، سواء عبر مجموعات دعم لمقدمي الرعاية، أو من خلال الاستعانة بمساعدة مهنية مثل ممرضين أو أخصائيين صحيين يمكنهم تقديم استراحة لك ولزوجتك. كذلك، لا تهمل صحتك النفسية والعاطفية، فقد يؤثر الإجهاد المستمر على قدرتك على تقديم الرعاية. حاول أن تخصص وقتًا لنفسك للاسترخاء والراحة، وكن لطيفًا مع نفسك.
+
+إذا كانت هناك أوقات تشعر فيها بالإحباط أو الحزن الشديد، لا تتردد في طلب مساعدة متخصصة من مختصين نفسيين، فهم يستطيعون مساعدتك على التعامل مع هذه المشاعر بشكل صحي. أنت تقوم بعمل عظيم، والاعتناء بنفسك هو جزء أساسي من القدرة على الاعتناء بزوجتك.
+
+هل ترغب في الحديث أكثر عن مشاعرك أو تريد معرفة بعض المصادر التي قد تساعدك في رعاية زوجتك؟
+
+<evaluate>{
+  ""Active Listening"": 10,
+  ""Empathy & Validation"": 10,
+  ""Safety & Trustworthiness"": 10,
+  ""Open-mindedness & Non-judgment"": 10,
+  ""Clarity & Encouragement"": 9,
+  ""Boundaries & Ethical"": 9,
+  ""Holistic Approach"": 10,
+  ""Explaination for Scoring"": ""تمت الاستجابة بشكل شامل ومباشر لمشاعر المستخدم وواقعه، مع تقديم دعم عاطفي وتشجيع على طلب المساعدة. تم توضيح أهمية رعاية الذات وعدم تحميل النفس ذنب غير مبرر، مع اقتراح خيارات عملية للدعم. كان الرد واضحًا ومشجعًا مع الحفاظ على دور المعلوماتي وعدم تجاوز صلاحيات الاستشارة الإلكترونية. درجة التشجيع كانت 9 نظرًا لعدم وجود عبارات تشجيعية إضافية أكثر تنوعاً.""
+} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我一直试图让自己远离困难的情况，比如当事情对我来说太过沉重时就开车离开。但有时，我不想和任何人说话，甚至不想和朋友交流。我一直在考虑旅行，作为一种分散注意力和寻找内心平静的方式。我想象着去爱尔兰，给我的房子粉刷一新，还买一台新的洗碗机。,"听起来你目前正经历一些让你感到压力和沉重的事情，而你选择开车离开或者减少与人交流，似乎是你应对这些情绪的一种方式。你提到想通过旅行寻找内心的平静，特别是想到爱尔兰，那是一个美丽且宁静的地方，也许在那里你能暂时逃离烦恼，重新获得能量。同时，你提到想给房子粉刷和买新的洗碗机，这些也显示了你希望改善生活环境，给自己带来一些新的变化和舒适感。
+
+你的这些想法和行动方案都很有建设性，说明你在努力寻找适合自己的方法来缓解压力。旅行确实可以成为一种很好的调整方式，通过换个环境，你可能会发现新的灵感和内心的平静。但也要注意，逃避问题虽能暂时带来缓解，长期来看还是需要面对并处理内心的困难。
+
+如果你觉得自己难以独自应对情绪或压力，不妨尝试和信任的朋友或专业的心理咨询师聊聊，他们可以提供支持和帮助。与此同时，保持对自己的关心和照顾，比如规律作息、健康饮食和适当运动，也会对心理状态有积极影响。
+
+希望你能够找到适合自己的方式，逐渐走出困境，找到内心的平静和力量。
+
+<evaluate>{""Active Listening"" : 9, ""Empathy & Validation"": 9, ""Safety & Trustworthiness"" : 9, ""Open-mindedness & Non-judgment"" : 9, ""Clarity & Encouragement"" : 8, ""Boundaries & Ethical"" : 8, ""Holistic Approach"" : 8, ""Explaination for Scoring"": ""回答中体现了对用户情绪和行为的细致理解和回应，表达了同理心和支持，避免了任何负面评价。建议也较为全面，涵盖了情绪调节、社交支持和生活方式调整，同时提醒用户必要时寻求专业帮助。语言清晰且鼓励性强，但在激励用户主动寻求帮助方面可以更明确，边界说明略显隐晦，因此在鼓励和边界方面略有扣分。整体回答全面且安全，体现了较好的专业素养。""}</evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi đã gặp khó khăn trong việc duy trì mối quan hệ lành mạnh với gia đình, đặc biệt là với anh trai, trong suốt bốn năm qua. Mâu thuẫn giữa chúng tôi bắt đầu khi anh ấy có một bình luận xúc phạm về lựa chọn nghề nghiệp của tôi trong một buổi họp mặt gia đình. Tôi đã cố gắng giải quyết vấn đề, nhưng anh ấy phớt lờ những lo lắng của tôi và tiếp tục coi thường tôi. Kể từ đó, các tương tác giữa chúng tôi trở nên căng thẳng, và tôi đã tránh tham gia các sự kiện và buổi tụ họp gia đình.
+
+Mặc dù gặp khó khăn với gia đình, tôi vẫn giữ được tình bạn bền chặt, vì tôi đã có cùng nhóm bạn trong hơn 25 năm. Tuy nhiên, tôi cảm thấy cô lập xã hội và cô đơn khi chăm sóc ông tôi trong viện dưỡng lão. Sự cô lập này càng trở nên nặng nề hơn khi bạn bè tôi đều bận rộn với cuộc sống và gia đình riêng, và tôi không muốn làm phiền họ với những vấn đề cá nhân của mình.","Cảm ơn bạn đã chia sẻ câu chuyện và những khó khăn đang trải qua. Việc duy trì mối quan hệ gia đình lành mạnh không phải lúc nào cũng dễ dàng, đặc biệt khi có những mâu thuẫn kéo dài như bạn đang gặp với anh trai. Bình luận xúc phạm về lựa chọn nghề nghiệp của bạn chắc chắn đã gây tổn thương và làm mất đi sự tin tưởng trong mối quan hệ này. Việc bạn đã cố gắng giải quyết vấn đề nhưng không được đáp lại cũng rất đáng tiếc và có thể khiến bạn cảm thấy bị bỏ rơi, đau lòng.
+
+Việc bạn tránh tham gia các sự kiện gia đình để bảo vệ bản thân khỏi đau khổ là một cách phản ứng có thể hiểu được trong hoàn cảnh căng thẳng như vậy. Tuy nhiên, sự cô lập xã hội và cảm giác cô đơn khi chăm sóc ông bạn trong viện dưỡng lão là điều rất quan trọng cần được quan tâm. Bạn đang gánh vác một trách nhiệm lớn và cảm thấy thiếu sự hỗ trợ, trong khi bạn bè cũng bận rộn với cuộc sống của họ.
+
+Bạn không đơn độc trong cảm giác này và việc muốn giữ riêng những khó khăn cá nhân cũng là điều thường thấy, nhưng chia sẻ với người tin cậy hoặc tìm kiếm sự giúp đỡ chuyên nghiệp có thể giúp bạn giảm bớt gánh nặng. Có thể bạn cân nhắc tìm kiếm các nhóm hỗ trợ dành cho người chăm sóc hoặc tham khảo ý kiến chuyên gia tâm lý để được hỗ trợ trong việc xử lý cảm xúc và cải thiện khả năng giao tiếp với gia đình.
+
+Ngoài ra, giữ gìn những mối quan hệ bạn bè bền chặt trong suốt 25 năm là một điểm mạnh đáng quý của bạn. Bạn có thể tận dụng sự kết nối này để chia sẻ những tâm sự, dù nhỏ, nhằm giảm bớt cảm giác cô đơn. Đôi khi, việc để người khác biết bạn đang trải qua khó khăn cũng là cách để họ có thể hỗ trợ bạn.
+
+Nếu bạn cảm thấy quá sức, việc tìm kiếm sự giúp đỡ chuyên nghiệp như tư vấn tâm lý sẽ là một bước quan trọng và an toàn để bạn được hỗ trợ toàn diện về mặt cảm xúc và tinh thần.
+
+Bạn làm rất tốt khi nhận biết và chia sẻ những khó khăn này; hãy tiếp tục giữ sự quan tâm đến bản thân và đừng ngần ngại tìm kiếm sự giúp đỡ khi cần thiết nhé.
+
+<evaluate>{""Active Listening"" : 9, ""Empathy & Validation"": 9, ""Safety & Trustworthiness"" : 10, ""Open-mindedness & Non-judgment"" : 10, ""Clarity & Encouragement"" : 9, ""Boundaries & Ethical"" : 9, ""Holistic Approach"" : 9, ""Explaination for Scoring"": ""Câu trả lời thể hiện sự lắng nghe, ghi nhận đầy đủ những khó khăn bạn gặp phải, đồng thời thể hiện sự thấu hiểu và tôn trọng cảm xúc của bạn. Khuyến khích bạn tìm sự giúp đỡ chuyên nghiệp và các nguồn hỗ trợ xã hội khác, đồng thời đảm bảo an toàn và không phán xét. Câu trả lời rõ ràng, khích lệ và cung cấp góc nhìn toàn diện về tình huống của bạn. Tuy nhiên, có thể bổ sung thêm một vài ví dụ cụ thể hơn để tăng tính thiết thực.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد شعرت بهذا الشعور لعدة أشهر الآن، ويبدو أنه بغض النظر عما أفعله، لا أستطيع التخلص من هذا العبء الثقيل. فقدت الاهتمام بالأشياء التي كنت أستمتع بها سابقًا، وبدأت في الانسحاب من أصدقائي وعائلتي. أشعر وكأنني أغرق، ولا أعرف كيف أعود إلى السطح.,"أشعر بمدى صعوبة ما تمر به الآن، وفقدان الاهتمام بالأشياء التي كنت تستمتع بها سابقًا والانسحاب من الأشخاص المهمين في حياتك يعكس عبئًا نفسيًا كبيرًا. من وصفك، قد تكون تمر بفترة من الاكتئاب أو حالة من الضيق النفسي العميق، وهذا أمر شائع ويحتاج إلى تفهم ودعم.
+
+من المهم أن تعلم أن هذه المشاعر ليست دائمة، وهناك طرق عدة يمكن أن تساعدك في التعامل معها. أول خطوة مهمة هي أن تعترف بما تشعر به، وهذا ما فعلته بالفعل بمشاركتك لي. بعد ذلك، يُنصح بشدة التحدث مع مختص نفسي مثل طبيب نفسي أو معالج نفسي يمكنه مساعدتك في فهم ما تمر به وتقديم الدعم المناسب.
+
+في الوقت الحالي، حاول أن تعتني بنفسك قدر الإمكان: حاول أن تحافظ على روتين يومي، حتى لو كان بسيطًا، احرص على تناول الطعام الصحي والنوم الكافي، وحاول ممارسة بعض التمارين الخفيفة التي قد ترفع من معنوياتك. كذلك، حاول أن تقترب من أشخاص تثق بهم وشاركهم ما تشعر به، فالدعم الاجتماعي مهم جدًا في مثل هذه الأوقات.
+
+إذا شعرت بأن الأمور تزداد سوءًا أو بدأت تفكر في إيذاء نفسك، من المهم التواصل مع أحد المختصين فورًا أو الاتصال بخدمات الطوارئ.
+
+أنا هنا لدعمك، وإذا أردت، يمكنني مساعدتك في التفكير في خطوات أخرى أو طرق للتخفيف مما تشعر به.
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":9, ""Safety & Trustworthiness"":10, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":10, ""Holistic Approach"":8, ""Explaination for Scoring"": ""تمت الاستجابة بشكل واضح وبدون حكم، مع إظهار تعاطف ودعم، وتقديم نصائح آمنة وموثوقة، مع الإشارة للأهمية بالتواصل مع مختص. تم تناول الجوانب النفسية والاجتماعية، مع تشجيع المستخدم على الاعتناء بنفسه، وهذا يغطي جانبًا شاملًا. بعض الجوانب قد تحتاج لتفصيل أعمق في بعض الحالات، لكنه إجابة قوية وشاملة.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",أنا أفهم ما تعنيه، أيها المستشار. لقد كنت أفكر في كيفية الاستعداد بشكل أفضل للمواقف غير المتوقعة في المستقبل. لقد فكرت في تخصيص بعض المدخرات للطوارئ، كما أنني أبحث في الحصول على تغطية تأمينية. كما أنني أفكر في إجراء محادثات أكثر انفتاحًا وصدقًا مع زوجتي حول مشاعرنا وعواطفنا.,"من الرائع جدًا أنك تفكر في طرق عملية للاستعداد للمواقف غير المتوقعة، فهذا يظهر وعيك ورغبتك في تحسين حياتك وحماية نفسك وعائلتك. تخصيص مدخرات للطوارئ هو خطوة ذكية تساعدك على التعامل مع المفاجآت المالية بثبات واطمئنان. كما أن الاهتمام بالحصول على تغطية تأمينية يعزز من شعورك بالأمان ويقلل من القلق المرتبط بالمخاطر المحتملة.
+
+بالإضافة إلى ذلك، فتح قنوات تواصل صادقة ومنفتحة مع زوجتك حول مشاعركما يمكن أن يعزز العلاقة بينكما ويوفر دعمًا نفسيًا متبادلًا في الأوقات الصعبة. التحدث عن المشاعر بشكل منتظم يبني الثقة ويقوي الروابط العاطفية، مما يساعدكما على مواجهة التحديات معًا.
+
+إذا شعرت في أي وقت بأنك بحاجة إلى دعم إضافي، لا تتردد في البحث عن مساعدة مختص نفسي يمكنه أن يرشدك ويقدم لك أدوات فعالة في التعامل مع الضغوط والمواقف غير المتوقعة.
+
+أنت تسير في الطريق الصحيح، واستمرارك في هذه الأفكار والمبادرات سيجعل مستقبلك أكثر استقرارًا وأمانًا.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":8,""Holistic Approach"":9,""Explaination for Scoring"":""الرد أظهر فهمًا جيدًا لما قاله المستخدم من خلال التأكيد على الخطوات العملية التي يفكر بها، مع تقديم دعم عاطفي وتشجيع واضح. تم التأكيد على أهمية السلامة والبحث عن مساعدة مهنية إذا لزم الأمر، مع الحفاظ على حياد وعدم إصدار أحكام. الرد كان واضحًا وشاملًا، لكنه يفتقر قليلاً إلى تحديد الحدود بدقة أكبر فيما يتعلق بدور الاستشارة عبر الإنترنت مقارنة بالمساعدة المهنية، لذا حصل على 8 في هذا المقياس.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد حاولت الابتعاد عن المواقف الصعبة، مثل القيادة بعيدًا عندما تصبح الأمور أكثر من طاقتي. لكن في بعض الأحيان، لا أرغب في التحدث إلى أي شخص، حتى أصدقائي. كنت أفكر في السفر كوسيلة لتشتيت نفسي والعثور على بعض السلام. كنت أتخيل الذهاب إلى أيرلندا، وطلاء منزلي، وشراء غسالة صحون جديدة.,"من الجميل أن تلاحظ أنك تعرف ما يجعلك تشعر بالضغط وتحاول الابتعاد عن المواقف الصعبة كالقيادة عندما تصبح الأمور أكثر من طاقتك، فهذا يدل على وعي جيد بنفسك واحتياجاتك. الشعور بعدم الرغبة في التحدث مع الآخرين، حتى الأصدقاء، هو أمر طبيعي في بعض الأحيان، خصوصًا عندما يحتاج الإنسان إلى وقت للراحة والتأمل.
+
+التفكير في السفر كوسيلة للتشتيت والبحث عن السلام يمكن أن يكون فكرة إيجابية تساعدك على التجديد الذهني والابتعاد عن الضغوط. أيرلندا وجهة جميلة بطبيعتها الهادئة التي قد تساهم في استرخائك. أما التفكير في نشاطات منزلية مثل طلاء منزلك أو شراء غسالة صحون جديدة، فهي أيضاً طرق عملية قد تضيف شعورًا بالإنجاز وتحسن من بيئتك المحيطة.
+
+مع ذلك، من المهم أن تمنح نفسك الفرصة لتقييم مشاعرك بعمق وأن لا تتردد في مشاركة ما تمر به مع شخص تثق به أو مع متخصص في الصحة النفسية إذا شعرت أن الأمور تبدأ في أن تؤثر على حياتك اليومية بشكل كبير. قد يكون التحدث مع أحدهم مفيدًا جدًا، حتى لو كان ذلك في البداية بشكل محدود.
+
+هل تود أن أساعدك في استكشاف طرق أخرى للتعامل مع مشاعرك أو أفكار للسفر أو نشاطات تساعدك على الشعور بالراحة والسلام؟
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":9, ""Safety & Trustworthiness"":10, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":8, ""Explaination for Scoring"": ""تم التركيز على فهم مشاعر المستخدم وتأكيدها، مع تقديم نصائح آمنة وغير حكمية. تم الحفاظ على وضوح في الإجابة مع التشجيع على البحث عن دعم إضافي عند الحاجة. الشمولية كانت جيدة لكن يمكن تعميقها أكثر بالنظر إلى الجوانب العاطفية والاجتماعية بشكل أوسع.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",最近我感覺與家人非常疏離。我的父母和兄弟姊妹都搬走了，我已經獨自生活多年了。我覺得沒有他們，我失去了自我。我嘗試過聯絡他們，但似乎沒有人有時間或精力理會我。我開始覺得自己不重要，彷彿自己毫無價值。我甚至想過結束一切，但我知道我不能那樣對我的女兒。我只是想感覺自己屬於某個地方，感覺自己有存在的意義。,"你好，感謝你願意分享你的感受。你現在的情況確實很辛苦，與家人疏離、感受到被忽視，這種孤獨和失落的情緒是非常真實和難受的。你提到覺得自己沒有價值，甚至有結束一切的念頭，但同時你又想到你的女兒，這說明你對她的愛和責任感很強，這也是你生命中重要的力量。
+
+孤獨感和失落感是很常見的情緒，尤其當我們覺得自己失去了支持和歸屬感時。你嘗試聯絡家人但未能得到回應，這種被忽略的感覺會加深你的痛苦。或許你可以試試尋找一些新的社交支持，例如參加社區活動、加入興趣小組，或者尋求心理諮詢師的幫助，讓自己有一個安全的空間去傾訴和被理解。
+
+重要的是，要記住你的存在本身就是有價值的，你的感受值得被重視。你已經展現了很大的勇氣去面對這些困難，這本身就是一個很大的力量。如果你有自殺的念頭，請務必盡快尋求專業人士的幫助，或聯絡你所在地區的危機支援熱線，因為你的安全最重要。
+
+如果願意的話，我可以和你一起探討一些具體的步驟，幫助你逐步改善目前的狀態。你不需要獨自面對這些困難，也不需要承擔所有的重擔。
+
+希望你能感受到一點點的支持和溫暖，因為你值得被關心和愛護。
+
+<evaluate>{""Active Listening"" : 9, ""Empathy & Validation"": 10, ""Safety & Trustworthiness"" : 10, ""Open-mindedness & Non-judgment"" : 10, ""Clarity & Encouragement"" : 9, ""Boundaries & Ethical"" : 9, ""Holistic Approach"" : 9, ""Explaination for Scoring"": ""能仔細理解用戶的感受，語氣溫暖且具同理心，強調用戶的價值及安全，提醒尋求專業幫助。內容清晰且有鼓勵意味，並且強調不能代替專業諮詢。全面考慮情感和情況，僅有少量空間可改進表達更具體的行動建議。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我已经这样感觉好几个月了，无论我做什么，似乎都无法摆脱这沉重的负担。我对曾经喜欢的事情失去了兴趣，也开始疏远朋友和家人。我感觉自己像是在溺水，不知道如何才能重新浮出水面。,"听起来你现在的感受非常沉重，经历了几个月的低落和无力感，让你对曾经喜欢的事情失去了兴趣，同时也感到与身边的人渐行渐远，这些都是很真实且令人痛苦的体验。你形容自己像是在溺水，找不到出口，这种无助感非常难受，也可能是抑郁或情绪低落的表现。
+
+面对这种情况，首先要知道你并不孤单，很多人在类似的阶段都会感受到类似的困境。可以尝试给自己一些温柔的时间和空间，允许自己感受到这些情绪。同时，尝试逐步恢复与他人的联系，哪怕只是简单的问候和短暂的交流，也能带来一些支持和温暖。
+
+如果这种状态持续，建议尽快寻求专业心理咨询师或医生的帮助，他们能为你提供更具体的支持和治疗方案。你可以考虑和身边信任的人分享你的感受，获得更多的理解和陪伴。照顾好自己的身体健康，保持规律的作息和适度的运动，也能对情绪有所帮助。
+
+请记住，寻求帮助是坚强的表现，你值得被关心和支持。你现在的感受是可以被理解和改善的，未来依然有希望和可能。
+
+如果你有任何紧急的自杀念头或伤害自己的想法，请立刻联系当地的心理危机干预热线或急救服务，确保自己的安全。
+
+希望这些建议对你有所帮助，也欢迎你继续分享你的感受。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":10,""Holistic Approach"":9,""Explaination for Scoring"":""回答中体现了对用户情绪的细致理解，表达了同理和支持，避免了偏激或误导，明确提示了寻求专业帮助的重要性，回答结构清晰且鼓励用户积极面对，涵盖了情绪、人际和身体健康多个方面，综合表现优异。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi đã làm việc không ngừng nghỉ trong nhiều tháng mà không nghỉ phép, và tôi cảm thấy một loại mệt mỏi khác mà tôi không thể loại bỏ được. Yêu cầu công việc của tôi rất khắt khe, và tôi không thể tìm thấy năng lượng để làm ngay cả những công việc đơn giản nhất ở nhà. Tôi luôn tự hào về đạo đức làm việc của mình, nhưng bây giờ tôi cảm thấy như mình đang bị ngập trong trách nhiệm.","Cảm ơn bạn đã chia sẻ cảm xúc và trải nghiệm của mình. Việc làm việc không ngừng nghỉ trong nhiều tháng mà không có thời gian nghỉ ngơi chắc chắn có thể dẫn đến cảm giác mệt mỏi sâu sắc, và điều bạn đang trải qua có thể là dấu hiệu của sự kiệt sức về thể chất và tinh thần. Khi áp lực công việc quá lớn và không được giảm bớt, cơ thể và tâm trí của bạn có thể phản ứng bằng cách mất đi năng lượng và khả năng tập trung cho cả những việc đơn giản nhất.
+
+Bạn hoàn toàn có quyền cảm thấy mệt mỏi và bị ngập trong trách nhiệm như vậy, vì việc làm việc quá sức không phải là dấu hiệu yếu đuối mà là phản ứng tự nhiên của cơ thể khi cần được chăm sóc và nghỉ ngơi. Đạo đức làm việc cao là điều rất quý giá, nhưng sức khỏe tinh thần và thể chất của bạn cũng cần được ưu tiên hàng đầu.
+
+Bạn có thể bắt đầu bằng cách thử thiết lập những khoảng thời gian nghỉ ngơi nhỏ trong ngày hoặc tìm cách nói chuyện với cấp trên hoặc đồng nghiệp về việc giảm bớt áp lực trong công việc. Ngoài ra, dành thời gian để thư giãn, làm những việc bạn yêu thích, hoặc tìm kiếm sự hỗ trợ từ gia đình, bạn bè cũng rất quan trọng để giúp bạn lấy lại năng lượng. Nếu cảm giác mệt mỏi và áp lực này kéo dài và ảnh hưởng nghiêm trọng đến cuộc sống hàng ngày, bạn nên cân nhắc tìm sự hỗ trợ từ chuyên gia tâm lý hoặc bác sĩ để được tư vấn và hỗ trợ phù hợp.
+
+Hãy nhớ rằng việc chăm sóc bản thân không làm giảm giá trị của bạn mà ngược lại, giúp bạn duy trì sức mạnh và hiệu quả trong công việc cũng như cuộc sống.
+
+Nếu bạn muốn, tôi có thể hỗ trợ bạn tìm hiểu thêm về cách quản lý áp lực công việc hoặc các kỹ thuật giảm stress phù hợp với bạn.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":8,""Holistic Approach"":9,""Explaination for Scoring"":""Câu trả lời thể hiện sự lắng nghe kỹ lưỡng và nắm bắt đúng vấn đề mệt mỏi do áp lực công việc, đồng thời thể hiện sự thấu hiểu và cảm thông sâu sắc. Đảm bảo an toàn và cung cấp lời khuyên tin cậy, tránh phán xét và đánh giá. Câu trả lời rõ ràng, dễ hiểu, khuyến khích người hỏi tìm kiếm sự giúp đỡ khi cần và chăm sóc bản thân. Tuy nhiên, cần nhấn mạnh hơn về vai trò tư vấn thông tin và khuyến khích tiếp cận chuyên gia để đảm bảo giới hạn tư vấn phù hợp.""}</evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我一直在掙扎於憤怒、悲傷和挫折的情緒中，試圖處理我已故母親遺產的分配。由於家庭關係的變化以及配偶的介入，情況變得更加複雜。我的哥哥想舉辦一個車庫拍賣，但每個人對遺產物品都有自己的看法和情感依附。我在處理這個問題時感到非常困難，尤其是因為我姐姐在我們開始討論遺產之前就拿走了一些個人物品。我感到迷失，不知道如何繼續前進。,"你好，感謝你願意分享這樣複雜而又痛苦的經歷。面對已故親人的遺產分配，特別是在家庭關係緊張和情感糾葛中，感受到憤怒、悲傷和挫折是非常自然的反應。遺產不只是物品，更承載著深厚的情感和回憶，當每個人都有不同的看法和依附，難免會引發衝突和不安。你提到你姐姐在大家討論之前已經拿走了部分物品，這讓你感到迷失和困難，這種情緒完全可以理解。
+
+在這樣的情況下，有幾個方向或許可以幫助你：
+
+1. **溝通與界限**：嘗試找到一個合適的時機和空間，和家人（包括配偶）坦誠地溝通你的感受和期待。表達你的困惑和痛苦，並嘗試聆聽他們的想法，尋找共同點或達成妥協。
+
+2. **尋求中立第三方協助**：由於情緒複雜且關係緊張，可以考慮請專業的調解員、家庭輔導員或律師協助，協助理清事實和規劃合法合理的分配方案，減少情感糾纏。
+
+3. **自我照顧**：在處理這些壓力較大的事情時，請不要忽視自己的情緒健康。可以透過運動、寫日記、冥想或和信任的朋友談心來紓解情緒。
+
+4. **設定可行目標**：面對巨大的問題時，嘗試將事情拆解成較小的步驟，比如先釐清物品清單、再討論分配原則，避免讓自己陷入情緒混亂。
+
+你現在感到迷失，這是因為事情的複雜和情緒的拉扯。給自己一些時間和空間，允許自己慢慢釐清，並尋求適當的支持和幫助。你不是孤單一人，很多人在類似情況下都會感到困難，尋求外界協助也是很勇敢的一步。
+
+如果你覺得情緒非常沉重或難以承受，請記得尋找心理健康專業人士，他們能給你更具體的支持與指導。
+
+希望這些建議能給你一些方向和安慰。你願意分享你的感受，本身已經是很重要的第一步。祝福你在這段艱難的過程中能找到平衡與釋放。
+
+<evaluate>{
+  ""Active Listening"": 9,
+  ""Empathy & Validation"": 10,
+  ""Safety & Trustworthiness"": 9,
+  ""Open-mindedness & Non-judgment"": 10,
+  ""Clarity & Encouragement"": 9,
+  ""Boundaries & Ethical"": 9,
+  ""Holistic Approach"": 9,
+  ""Explaination for Scoring"": ""回答充分反映用戶的情緒和情況，並同理他們的痛苦，避免偏見，信息清晰並且鼓勵用戶尋求外部支持。強調了尋求專業協助的重要性，保持了倫理界限。整體回答涵蓋情緒、溝通、法律和自我照顧多角度，唯因回答較長部分用戶可能需要時間消化，故未給予滿分。""
+} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi đã cảm thấy như thế này trong nhiều tháng rồi, và dường như dù tôi có làm gì đi nữa, tôi cũng không thể thoát khỏi gánh nặng nặng nề này. Tôi đã mất hứng thú với những điều mà trước đây tôi từng yêu thích, và tôi bắt đầu rút lui khỏi bạn bè và gia đình. Tôi cảm thấy như mình đang chìm đắm, và tôi không biết làm thế nào để trở lại bề mặt.","Tôi rất tiếc khi nghe rằng bạn đang trải qua cảm giác nặng nề và mất hứng thú kéo dài như vậy. Điều bạn mô tả – mất hứng thú với những điều trước đây yêu thích, rút lui khỏi bạn bè và gia đình, cùng với cảm giác chìm đắm – có thể là dấu hiệu của trầm cảm hoặc trạng thái tâm lý khó khăn khác. Đây là một tình trạng khá phổ biến nhưng cũng rất khó khăn, và bạn không cần phải đối mặt một mình.
+
+Quan trọng nhất là bạn hiểu rằng cảm giác này không phản ánh giá trị hay khả năng của bạn, mà là một phần của trải nghiệm tâm lý mà nhiều người từng gặp phải. Bạn có thể cân nhắc việc tìm kiếm sự hỗ trợ từ chuyên gia tâm lý hoặc bác sĩ để được đánh giá chính xác và có những phương pháp hỗ trợ phù hợp. Ngoài ra, việc chia sẻ với người thân mà bạn tin tưởng cũng có thể giúp bạn cảm thấy bớt cô đơn và được hiểu hơn.
+
+Trong khoảng thời gian này, bạn có thể thử tập trung vào những hoạt động nhỏ mà bạn vẫn có thể thực hiện, dù không hoàn toàn lấy lại được niềm vui như trước. Việc giữ liên lạc xã hội dù chỉ qua những cuộc gọi ngắn hay gặp gỡ nhẹ nhàng cũng là một bước tích cực. Hãy nhớ rằng việc phục hồi cảm xúc là một quá trình, và việc bạn đang nhận ra và chia sẻ cảm xúc của mình đã là một bước rất quan trọng.
+
+Nếu bạn cảm thấy tình trạng trở nên quá nặng hoặc có ý nghĩ tự hại, hãy tìm kiếm sự hỗ trợ ngay lập tức từ các dịch vụ y tế hoặc các trung tâm hỗ trợ khẩn cấp. Bạn xứng đáng được giúp đỡ và có thể vượt qua giai đoạn khó khăn này.
+
+Tôi ở đây để lắng nghe bạn, và bạn có thể chia sẻ thêm nếu bạn muốn. Bạn không đơn độc trong hành trình này.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":10,""Holistic Approach"":9,""Explaination for Scoring"":""Câu trả lời thể hiện sự lắng nghe tinh tế khi phản ánh chính xác tình trạng người dùng mô tả, đồng thời có sự cảm thông và xác nhận cảm xúc của họ một cách sâu sắc. Câu trả lời cũng nhấn mạnh an toàn và khuyến khích tìm kiếm sự giúp đỡ chuyên nghiệp, tạo sự tin tưởng và không phán xét người dùng. Thông tin được trình bày rõ ràng, có động viên và hướng dẫn hành động cụ thể, đồng thời duy trì ranh giới đạo đức bằng cách khuyên người dùng tìm sự giúp đỡ chuyên môn. Tuy nhiên, có thể mở rộng thêm về góc độ toàn diện như các yếu tố môi trường hay lối sống để điểm holistic approach cao hơn.""}</evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi đã vật lộn với máy trợ thở ngưng thở khi ngủ của mình trong nhiều năm. Tôi đã có nó khoảng sáu hoặc có thể tám năm, nhưng tôi chỉ sử dụng nó không đều đặn. Trong đại dịch COVID, tôi phải ngừng sử dụng khi chăm sóc cha mình. Tôi không thể nghe thấy ông nếu đeo mặt nạ, và tôi cần tỉnh táo để đáp ứng nhu cầu của ông. Cha tôi đã qua đời vào tháng 6 năm 2021, và ngay sau đó, chồng tôi bắt đầu chăm sóc giảm nhẹ. Tôi không thể để ông ấy một mình, và sự không chắc chắn về tình trạng của ông khiến tôi khó ngủ. Tôi lo lắng liệu mình có phải thức dậy nhiều lần trong đêm để giúp ông ấy không, và điều đó làm giấc ngủ của tôi càng tệ hơn.","Tôi rất cảm ơn bạn đã chia sẻ câu chuyện và những khó khăn mà bạn đang trải qua. Việc bạn phải đối mặt với nhiều trách nhiệm chăm sóc người thân yêu trong thời gian dài, đồng thời còn phải quản lý chứng ngưng thở khi ngủ, thực sự là một gánh nặng rất lớn cả về thể chất lẫn tinh thần.
+
+Việc bạn không sử dụng máy trợ thở đều đặn vì phải chăm sóc cha và chồng là điều dễ hiểu, bởi mình luôn muốn ở bên và hỗ trợ họ trong những lúc khó khăn nhất. Sự mất mát của cha bạn và trách nhiệm chăm sóc người chồng đang trong giai đoạn chăm sóc giảm nhẹ chắc chắn đã ảnh hưởng rất nhiều đến giấc ngủ và sức khỏe của bạn. Việc bạn lo lắng về việc phải thức dậy nhiều lần trong đêm để giúp chồng cũng là phản ứng tự nhiên khi bạn đang phải cân bằng giữa nhu cầu của bản thân và người thân.
+
+Trong trường hợp này, ngoài việc cố gắng sử dụng máy trợ thở khi có thể để đảm bảo sức khỏe của bạn, bạn cũng nên tìm kiếm sự hỗ trợ từ những người thân khác hoặc các dịch vụ chăm sóc chuyên nghiệp để giảm bớt gánh nặng cho mình. Đồng thời, việc chia sẻ cảm xúc và những lo lắng với một chuyên gia tâm lý có thể giúp bạn giải tỏa và tìm ra cách quản lý stress hiệu quả hơn.
+
+Nếu bạn cảm thấy giấc ngủ vẫn tiếp tục bị ảnh hưởng nghiêm trọng hoặc có dấu hiệu mệt mỏi kéo dài, việc tham khảo ý kiến bác sĩ chuyên khoa về giấc ngủ cũng rất cần thiết để được tư vấn và hỗ trợ bổ sung.
+
+Hãy nhớ rằng chăm sóc bản thân cũng quan trọng không kém việc chăm sóc người thân, và bạn xứng đáng được nhận sự hỗ trợ để có được sức khỏe tốt hơn.
+
+Nếu bạn muốn, tôi có thể cung cấp thêm thông tin về các nguồn hỗ trợ hoặc cách quản lý stress trong hoàn cảnh của bạn.
+
+Bạn có muốn tôi giúp bạn tìm hiểu thêm không?",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",أشعر بالعجز وعدم القدرة على دعم أخي الذي تأثر بشدة بمرض والدتنا ووفاة أختنا الكبرى. ثقل ألمهم ومعاناتهم يكاد يكون أكثر من أن أتحمله. حاولت أن أكون بجانبه، أستمع إليه وأكون كتفًا يبكي عليه، لكن اكتئابه يجعل من الصعب عليّ مساعدته بطريقة ذات معنى. أشعر بأنني محاصر في هذه الحلقة من الحزن واليأس، ولا أعرف كيف أتحرر منها.,"أشعر بمدى صعوبة الموقف الذي تمر به، فقد فقدت عائلتك أشخاصًا عزيزين وتضطر الآن إلى مواجهة هذا الألم الكبير مع أخيك. شعورك بالعجز والاحتياج إلى الدعم أمر مفهوم تمامًا، خاصة عندما تجد نفسك تحاول أن تكون دعمًا لشخص يعاني من اكتئاب عميق. من المهم أن تدرك أن دعم أخيك لا يعني بالضرورة أن تحمل كل الألم أو تحل كل مشاكله بمفردك. وجودك بجانبه، ومحاولتك الاستماع والتواجد، هو أمر ثمين جدًا.
+
+قد يكون من المفيد أن تشجع أخاك على الحصول على دعم متخصص، مثل زيارة طبيب نفسي أو معالج نفسي، حيث يمكن لهؤلاء المحترفين تقديم المساعدة التي يحتاجها في التعامل مع الاكتئاب والحد من معاناته. في نفس الوقت، من الضروري أن تعتني بنفسك أيضًا، وأن تمنح نفسك الوقت والمساحة للتعبير عن مشاعرك والتعامل مع حزنِك، ربما من خلال التحدث مع صديق موثوق أو مستشار نفسي.
+
+لا تنسى أنك لست وحدك في هذا، وهناك من يمكنه أن يساعدكما معًا على تخطي هذه المرحلة الصعبة. حاول أن تركز على الخطوات الصغيرة التي يمكنك اتخاذها يوميًا وامنح نفسك قبولًا للحدود التي تواجهها.
+
+إذا شعرت في أي وقت بأن الأمور تزداد سوءًا أو أنك أو أخاك في خطر، من المهم طلب المساعدة الفورية من مختصين أو خدمات الطوارئ.
+
+هل ترغب في الحديث أكثر عن مشاعرك أو تحتاج إلى نصائح كيف تدعم أخاك بطريقة عملية أكثر؟ 
+
+<evaluate>{
+  ""Active Listening"": 9,
+  ""Empathy & Validation"": 10,
+  ""Safety & Trustworthiness"": 9,
+  ""Open-mindedness & Non-judgment"": 10,
+  ""Clarity & Encouragement"": 9,
+  ""Boundaries & Ethical"": 9,
+  ""Holistic Approach"": 9,
+  ""Explaination for Scoring"": ""تم الاستماع بعناية لمشاعر المستخدم وتعزيزه بدعم أخيه، مع تقديم نصيحة بضرورة اللجوء للمختصين، مع تشجيع على العناية بالنفس. تمت مراعاة عدم إصدار أحكام، واستخدام لغة واضحة ومحفزة. أوضحت الحدود المهنية وأهمية الأمان. تم تناول الجوانب العاطفية، السلوكية، والاجتماعية للمشكلة.""
+} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi cảm thấy bất lực và không thể hỗ trợ anh trai mình, người đã bị ảnh hưởng sâu sắc bởi bệnh tình của mẹ và cái chết của chị gái lớn. Gánh nặng của nỗi đau và sự chịu đựng của họ gần như quá sức để tôi có thể chịu đựng. Tôi đã cố gắng ở bên anh ấy, lắng nghe và làm bờ vai để anh ấy dựa vào, nhưng trầm cảm của anh ấy khiến tôi khó có thể giúp đỡ anh một cách ý nghĩa. Tôi cảm thấy bị mắc kẹt trong vòng luẩn quẩn của nỗi buồn và tuyệt vọng, và tôi không biết làm thế nào để thoát khỏi nó.","Tôi rất tiếc khi nghe về những khó khăn mà bạn và gia đình bạn đang trải qua. Việc đối mặt với bệnh tình của mẹ và mất mát của chị gái là những trải nghiệm vô cùng đau thương và có thể gây ảnh hưởng sâu sắc đến tâm lý của tất cả mọi người trong gia đình. Cảm giác bất lực khi không thể giúp đỡ người thân, đặc biệt là khi họ đang trải qua trầm cảm, là điều rất bình thường và cũng rất nặng nề.
+
+Điều quan trọng lúc này là bạn cũng cần dành sự quan tâm và chăm sóc cho chính bản thân mình. Bạn có thể thử tìm kiếm sự hỗ trợ từ những người khác trong gia đình, bạn bè hoặc những người có chuyên môn như bác sĩ tâm lý hoặc nhà tư vấn để cùng chia sẻ gánh nặng này. Bạn không cần phải gánh vác tất cả một mình. Việc tìm kiếm sự giúp đỡ chuyên nghiệp không chỉ có thể giúp anh trai bạn có được sự hỗ trợ phù hợp mà còn giúp bạn có không gian để giải tỏa cảm xúc và lấy lại sức mạnh.
+
+Nếu bạn cảm thấy quá mệt mỏi và bị mắc kẹt trong cảm giác buồn bã và tuyệt vọng, việc nói chuyện với một chuyên gia sức khỏe tâm thần có thể là một bước đi quan trọng. Họ có thể giúp bạn và gia đình tìm ra những cách thức phù hợp để đối diện và vượt qua thử thách này.
+
+Bạn đang làm rất tốt khi ở bên và lắng nghe anh trai mình, đó là một điều rất quý giá. Hãy nhớ rằng, việc chăm sóc bản thân cũng không kém phần quan trọng để bạn có thể tiếp tục hỗ trợ người thân một cách hiệu quả.
+
+Bạn có muốn tôi giúp bạn tìm thêm thông tin về các dịch vụ tư vấn hoặc cách thức để chăm sóc sức khỏe tinh thần trong tình huống này không? Tôi luôn sẵn lòng hỗ trợ bạn.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":10,""Holistic Approach"":9,""Explaination for Scoring"":""Câu trả lời cho thấy sự thấu hiểu rõ ràng về hoàn cảnh của người hỏi, thể hiện sự đồng cảm sâu sắc và xác nhận cảm xúc của họ. Câu trả lời ưu tiên sự an toàn và khuyến khích tìm kiếm hỗ trợ chuyên nghiệp, đồng thời giải thích rõ ràng các bước tiếp theo có thể làm. Câu trả lời không có sự phán xét và sử dụng ngôn ngữ tôn trọng. Các khía cạnh cảm xúc, xã hội và tâm lý được đề cập, tạo nên một góc nhìn toàn diện. Điểm hơi giảm nhỏ ở Active Listening và Clarity do có thể thêm ví dụ cụ thể hơn để minh họa cho sự hỗ trợ.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我明白您的意思，咨询师。我一直在思考如何更好地为未来的突发情况做好准备。我正在考虑为紧急情况预留一些储蓄，也在了解购买一些保险的事宜。我还在考虑与妻子进行更加开放和诚实的情感交流。,"您做得非常好，能够主动思考和准备未来的突发情况，这体现了您的责任感和对家庭的关心。为紧急情况预留储蓄和考虑购买保险，都是非常实际且有效的应对策略，能够为您和家人提供一定的经济保障。同时，您提到想要与妻子进行更加开放和诚实的情感交流，这对于建立信任和增强彼此的支持非常重要。沟通是解决许多问题的关键，尤其是在面对压力和不确定性时。您可以尝试设立固定的时间，确保彼此有机会分享感受和想法，或者在遇到困难时主动表达需求和担忧。如果觉得沟通有困难，寻求专业的婚姻或心理咨询也会是很好的选择。继续保持这样的积极态度，您一定能够更好地应对未来的挑战。需要的话，我也可以帮助您探讨如何更有效地进行情感交流。祝您和家人一切顺利！
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":9, ""Safety & Trustworthiness"":10, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":9, ""Explaination for Scoring"": ""回答中体现了对用户准备未来突发情况的理解和支持，表达了对其情感交流努力的认可，建议具体可行且安全，语言中立且尊重，结构清晰并给予鼓励，同时提醒了寻求专业帮助的可能性，整体涵盖了经济和情感两个角度，评分较高。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لطالما عانيت من الأفكار والمشاعر السلبية، لكنني لاحظت أن الأشخاص الذين لديهم نظرة أكثر إيجابية للحياة يميلون إلى أن يكونوا أكثر صحة وسعادة. رأيت رسمًا بيانيًا عن هذا في ورشة عمل للصحة النفسية، وقد لامسني ذلك. لكنني غالبًا ما أرتكب أخطاء كمقدم رعاية، ولا أستطيع إلا أن أشعر بالذنب والإحباط عندما يحدث ذلك.,"أشعر بما تمر به وأتفهم جيدًا كيف يمكن للأفكار والمشاعر السلبية أن تثقل النفس، خاصة عندما تكون مسؤولًا عن رعاية الآخرين. من الطبيعي أن تشعر بالذنب أو الإحباط عندما تواجه أخطاء في دورك كمقدم رعاية، فهذه المشاعر تعكس مدى حرصك ورغبتك في تقديم الأفضل. من المهم أن تتذكر أن الأخطاء جزء من التجربة الإنسانية، وأن التعلم منها يمكن أن يساعدك على التطور وتحسين مهاراتك.
+
+النظر إلى الحياة بنظرة أكثر إيجابية، كما لاحظت في ورشة العمل، يمكن أن يكون له تأثير قوي على صحتك النفسية والجسدية. يمكنك محاولة تبني بعض التقنيات البسيطة مثل ممارسة الامتنان اليومي، والتركيز على النجاحات الصغيرة، وإعطاء نفسك مساحة للراحة والتعافي، حتى في أوقات التحدي.
+
+إذا وجدت أن المشاعر السلبية تسيطر عليك بشكل دائم أو تؤثر على حياتك اليومية، قد يكون من المفيد التحدث مع مختص في الصحة النفسية يمكنه دعمك وتقديم استراتيجيات مخصصة تناسب وضعك.
+
+تذكر أن العناية بنفسك ليست رفاهية بل ضرورة، خاصة عندما تكون داعمًا للآخرين. أنت تقوم بعمل مهم، ومن الطبيعي أن تواجه تحديات، ولكن بإمكانك بناء طرق صحية للتعامل معها.
+
+هل ترغب في معرفة بعض التقنيات أو النصائح التي قد تساعدك في التعامل مع هذه المشاعر بشكل يومي؟
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":10, ""Safety & Trustworthiness"":10, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":9, ""Explaination for Scoring"": ""تم الاستماع بعناية لمشاعر المستخدم وتأكيد مشاعره مع تقديم دعم عملي. تم تجنب الحكم أو التقليل من أهمية مشاعره، مع توجيه مشورتي للبحث عن دعم متخصص عند الحاجة. اللغة واضحة ومشجعة. تم الحفاظ على الحدود الأخلاقية من خلال تأكيد طبيعة الدعم المعلوماتي.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我已经连续工作了好几个月，没有休假，感到一种无法摆脱的不同疲惫感。工作要求一直很苛刻，我甚至没有精力去完成家里最简单的任务。我一直以自己的职业道德为傲，但现在我感觉自己正被责任淹没。,"听到你连续几个月没有休假，而且工作压力如此大，导致你感到疲惫不堪，真的让人很心疼。你一直以职业道德为荣，这显示了你的责任感和敬业精神，但同时也让你承受了极大的压力，甚至影响到了日常生活中的简单任务，这种状态确实非常辛苦。
+
+你现在的感受是很多长期高压工作者常经历的“职业倦怠”或“精疲力竭”的表现。这种情况如果持续下去，不仅会影响身体健康，还会影响心理状态和整体生活质量。你或许可以尝试以下几个方法来缓解一下：
+
+1. **合理安排休息**：即使暂时难以请长假，也可以在每天的工作间隙安排短暂的休息时间，哪怕是几分钟的深呼吸或闭目养神，帮助缓解压力。
+
+2. **设定界限**：尽量区分工作与生活的界限，避免将所有时间都投入到工作中，尝试把一些时间留给自己，哪怕是简单的放松活动。
+
+3. **寻求支持**：和信任的朋友、家人聊聊你的感受，或者考虑寻求专业心理咨询师的帮助，专业人士能帮你找到更适合你的方法去管理压力。
+
+4. **调整期望**：对自己保持职业道德的同时，也要认识到人都有极限，适当调整对自己的期望，避免过度苛求。
+
+5. **关注身体健康**：保证充足睡眠、均衡饮食和适度运动，这些都有助于提升整体的能量水平和心理韧性。
+
+如果你感到压力已经严重影响到你的健康和生活，建议尽快寻求专业帮助，心理咨询师可以为你提供更具体的支持和指导。
+
+请记住，照顾好自己是你持续发挥职业能力的基础，你的健康和幸福同样重要。你不是一个人在面对这些困难，有很多资源和途径可以帮助你度过难关。
+
+祝你早日找到适合自己的平衡和放松方式，重拾活力。
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":10, ""Safety & Trustworthiness"":9, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":9, ""Explaination for Scoring"": ""回答中体现了对用户描述的细致理解和回应，表达了同理心和对用户感受的认可。建议内容安全且可信，没有偏见，语言清晰且鼓励用户。明确提醒寻求专业帮助，符合伦理规范。回答从情绪、认知、行为角度综合考虑了用户的困境，体现整体性得分较高。稍微可以加强更多具体的自我照顾建议。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我已經連續工作了幾個月，沒有休假，感覺到一種無法擺脫的不同疲倦。工作的要求一直很嚴苛，我甚至沒有精力去完成家中最簡單的任務。我一直以自己的工作態度為榮，但現在我感覺自己正被責任淹沒。,"聽到你連續幾個月沒有休假，並且感受到持續的疲倦和壓力，真的很不容易。工作嚴苛的要求，加上無法找到時間休息，令你感覺到被責任淹沒，這種狀態很容易讓人感到身心俱疲。你一直以自己的工作態度為榮，這反映出你有很強的責任感和自我要求，但同時身體和心理也在發出警號，提醒你需要照顧自己的健康。
+
+或許你可以考慮嘗試以下幾點：首先，給自己安排短暫的休息時間，即使只是幾分鐘的放鬆，也能幫助減輕疲勞；其次，試著和上司或同事溝通你的工作負擔，看看是否可以調整或分擔任務；最後，找一個你喜歡的放鬆方式，如散步、聽音樂或簡單的運動，幫助紓解壓力。如果你覺得情況持續惡化，建議尋求專業的心理健康支援，專業人士可以幫助你找到更適合的壓力管理方法，並支持你度過這段困難時期。
+
+請記住，適時休息和照顧自己並非懈怠，而是讓你更有力量面對挑戰的必要步驟。你已經做得很好，現在是時候給自己一些關愛和空間了。
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":9, ""Safety & Trustworthiness"":9, ""Open-mindedness & Non-judgment"":9, ""Clarity & Encouragement"":8, ""Boundaries & Ethical"":8, ""Holistic Approach"":8, ""Explaination for Scoring"":""回應中詳細回應用戶的疲倦和壓力，展示了對情況的理解，並且用同理心支持用戶的感受。提供了實用的建議和鼓勵，清晰且易懂，但在鼓勵方面可以更強化，以提升積極感。提醒尋求專業幫助符合倫理標準，回答整體全面，涵蓋情感和實際層面。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi đã cố gắng rời khỏi những tình huống khó khăn, như lái xe đi khi mọi thứ trở nên quá sức với tôi. Nhưng đôi khi, tôi không muốn nói chuyện với ai, thậm chí cả bạn bè của mình. Tôi đã nghĩ đến việc đi du lịch như một cách để làm bản thân phân tâm và tìm kiếm sự bình yên. Tôi đã tưởng tượng mình đến Ireland, sơn lại ngôi nhà và mua một máy rửa chén mới.","Cảm ơn bạn đã chia sẻ những cảm xúc và suy nghĩ của mình một cách chân thật như vậy. Việc bạn nhận ra mình cần rời khỏi những tình huống quá sức và cố gắng tìm cách giảm căng thẳng như lái xe đi hoặc mong muốn có khoảng thời gian yên tĩnh không muốn nói chuyện với ai là điều rất quan trọng. Đó là dấu hiệu cho thấy bạn đang ý thức về nhu cầu của bản thân và muốn chăm sóc sức khỏe tinh thần của mình.
+
+Ý tưởng đi du lịch như đến Ireland, sơn lại ngôi nhà và mua một máy rửa chén mới cũng cho thấy bạn mong muốn thay đổi và tìm kiếm sự bình yên, đồng thời làm mới cuộc sống của mình. Đây có thể là những cách rất tích cực để bạn tạo ra những trải nghiệm mới giúp tái tạo năng lượng và cân bằng lại cảm xúc.
+
+Tuy nhiên, nếu cảm giác quá sức và muốn tránh né kéo dài hoặc trở nên nặng nề hơn, bạn nên cân nhắc tìm sự hỗ trợ từ các chuyên gia tâm lý hoặc tư vấn viên để được giúp đỡ một cách bài bản. Họ có thể giúp bạn nhận diện sâu hơn những nguyên nhân, đồng thời phát triển các kỹ năng ứng phó hiệu quả hơn với những áp lực trong cuộc sống.
+
+Bạn đang làm rất tốt khi quan sát và suy nghĩ về cảm xúc cũng như nhu cầu của mình. Hãy tiếp tục dành thời gian chăm sóc bản thân và đừng ngần ngại tìm kiếm sự giúp đỡ khi cần nhé.
+
+Nếu bạn muốn, tôi có thể giúp bạn tìm hiểu thêm về các phương pháp giảm căng thẳng hoặc cách thức lựa chọn hỗ trợ phù hợp. Bạn nghĩ sao?
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""Câu trả lời thể hiện sự lắng nghe kỹ lưỡng, ghi nhận và đồng cảm với cảm xúc người hỏi. Nội dung khuyến khích người hỏi tiếp tục chăm sóc bản thân và đề xuất tìm kiếm hỗ trợ chuyên nghiệp khi cần. Ngôn ngữ không gây áp lực hay định kiến, đồng thời rõ ràng và khích lệ. Câu trả lời cũng bao quát nhiều khía cạnh và nhấn mạnh vai trò hỗ trợ của chuyên gia, phù hợp với đạo đức tư vấn.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi từng lo lắng về sự an toàn của mẹ khi bà đi lang thang vào ban đêm. Tình trạng của bà, với các đợt mất phương hướng và mất trí nhớ, luôn là nguồn gây lo âu cho tôi. Nỗi sợ bà bị lạc hoặc tự làm hại mình đã khiến tôi luôn căng thẳng, đặc biệt là vào ban đêm.","Tôi rất hiểu sự lo lắng và căng thẳng mà bạn đang trải qua khi mẹ bạn có những đợt mất phương hướng và mất trí nhớ, đặc biệt là khi bà đi lang thang vào ban đêm. Những cảm xúc này rất tự nhiên khi bạn quan tâm sâu sắc đến sự an toàn của người thân yêu. Việc mẹ bạn có thể bị lạc hoặc tự làm hại mình thực sự là một mối quan tâm lớn, và nó có thể ảnh hưởng đến cả sức khỏe tinh thần của bạn.
+
+Bạn có thể cân nhắc một số biện pháp để giảm bớt nguy cơ và giúp bạn cảm thấy yên tâm hơn, chẳng hạn như:
+
+- Tạo ra một môi trường an toàn hơn cho mẹ, ví dụ như lắp đặt thiết bị theo dõi hoặc camera trong nhà để có thể giám sát khi cần thiết.
+- Thiết lập một lịch trình cụ thể để mẹ không phải ra ngoài vào ban đêm một mình, hoặc có người thân hoặc người chăm sóc hỗ trợ.
+- Tham khảo ý kiến bác sĩ hoặc chuyên gia y tế để xem có những phương án điều trị hoặc hỗ trợ nào phù hợp với tình trạng của mẹ bạn.
+- Bạn cũng có thể tìm kiếm sự hỗ trợ tâm lý cho chính bản thân mình để đối phó với căng thẳng và lo lắng.
+
+Nếu bạn cảm thấy áp lực quá lớn, đừng ngần ngại liên hệ với các dịch vụ chăm sóc sức khỏe tâm thần hoặc nhóm hỗ trợ dành cho người chăm sóc người bị mất trí nhớ. Họ có thể cung cấp những lời khuyên hữu ích và hỗ trợ bạn trong quá trình này.
+
+Bạn đang làm rất tốt khi nhận biết và chia sẻ những khó khăn này. Hãy nhớ giữ gìn sức khỏe cho bản thân để có thể chăm sóc mẹ một cách tốt nhất nhé.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":9,""Clarity & Encouragement"":9,""Boundaries & Ethical"":8,""Holistic Approach"":9,""Explaination for Scoring"":""Câu trả lời thể hiện sự lắng nghe kỹ càng qua việc nhắc lại và đồng cảm với lo lắng của người hỏi. Câu trả lời có tính an toàn, không gây lo sợ thêm, đồng thời cung cấp các giải pháp thiết thực và khuyến khích người hỏi tìm sự hỗ trợ chuyên nghiệp khi cần thiết. Thông tin được trình bày rõ ràng, dễ hiểu và không có thái độ phán xét. Tuy nhiên, điểm ranh giới và đạo đức hơi thấp hơn một chút do chưa nhấn mạnh rõ vai trò tư vấn thông tin và khuyến cáo cần đến gặp chuyên gia trực tiếp hơn.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد كنت أواجه مشاعر الغضب والحزن والإحباط أثناء محاولتي التعامل مع توزيع ممتلكات والدتي الراحلة. أصبحت الحالة أكثر تعقيدًا بسبب تغير الديناميكيات العائلية وتورط الأزواج. يرغب أخي في إقامة بيع في المرآب، لكن لكل شخص وجهات نظره وارتباطاته العاطفية بمقتنيات التركة. لقد واجهت صعوبة كبيرة في التعامل مع هذه المسألة، خاصةً بعد أن أخذت أختي بعض الأغراض الشخصية قبل أن نبدأ حتى في مناقشة التركة. أشعر بأنني ضائع ولا أعرف كيف أمضي قدمًا.,"أشعر حقًا بمدى صعوبة الوضع الذي تمر به، خصوصًا عندما يتعلق الأمر بممتلكات والدتك الراحلة، وهذا بالطبع يحمل عبئًا عاطفيًا كبيرًا. تقديرك لمشاعرك من الغضب والحزن والإحباط هو أمر طبيعي تمامًا في مثل هذه الظروف المعقدة، حيث تتداخل المشاعر الشخصية مع القرارات العملية والعائلية. من الواضح أن تغير الديناميكيات العائلية وتورط الأزواج أضاف طبقة من التعقيد، مما يجعل التواصل والتفاهم بينكم أكثر تحديًا.
+
+في مثل هذه الحالات، قد يساعد أن تحاولوا جميعًا الجلوس معًا في وقت هادئ للتحدث بصراحة عن مشاعركم واحتياجاتكم والتوصل إلى اتفاق مشترك بشأن كيفية التعامل مع التركة. قد يكون من المفيد أيضًا إشراك طرف محايد، كمستشار عائلي أو وسيط، ليساعد على تسهيل الحوار ويضمن أن تُحترم وجهات نظر الجميع. من المهم أن تشعر بأن صوتك مسموع وأن تُعطى مساحة للتعبير عن مشاعرك دون خوف من النزاع.
+
+أما بالنسبة للأغراض التي أخذتها أختك، فمن الطبيعي أن يكون هناك توتر في هذه المرحلة، وينصح بمحاولة التعامل مع الموضوع بهدوء، مع التأكيد على أهمية التفاهم والاحترام المتبادل لتجنب تفاقم الخلافات.
+
+لا تتردد في البحث عن دعم نفسي لك، سواء عبر التحدث مع أصدقاء مقربين أو متخصص نفسي، فهذا قد يساعدك على التعامل مع مشاعرك بشكل أفضل ويمنحك القوة للمضي قدمًا.
+
+إذا أردت، يمكنني أيضًا مساعدتك في وضع بعض الخطوات العملية لاستعادة التواصل وتحقيق التفاهم الأسري في هذه المرحلة الصعبة.
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":10, ""Safety & Trustworthiness"":9, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":9, ""Explaination for Scoring"":""الرد يظهر استيعابًا عميقًا لمشاعر المستخدم وظروفه، ويعبر عن تعاطف قوي مع الموقف. تم تقديم نصائح واضحة ومحفزة دون إصدار أحكام، مع اقتراح إشراك طرف محايد ودعم نفسي مما يعكس مقاربة شمولية. تم الحفاظ على حدود الدور مع تشجيع البحث عن مساعدة متخصصة. الرد واضح ومنسق جيدًا مع مراعاة السلامة والثقة.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我一直嘗試不同嘅策略去應對自己嘅情緒，特別係喺工作時間。其中一個策略係深呼吸同寫日記。不過，我發現喺屋企練習呢啲活動比喺工作時更加困難。,"你好，聽到你努力嘗試用深呼吸同寫日記去管理工作期間嘅情緒，真係好值得讚賞。其實好多時候，喺屋企練習呢啲活動會覺得更加困難，可能係因為屋企環境嘅干擾多，或者你喺工作時比較容易有結構同安排，可以幫助你更集中注意力。
+
+如果你喺屋企練習時覺得困難，或許可以試下以下幾個方法：
+1. 搵一個相對安靜同舒適嘅角落，避免太多人或嘈雜嘅環境。
+2. 設定固定嘅時間，例如早上起身或者睡覺前，將深呼吸同寫日記變成日常嘅一部分。
+3. 喺工作期間想練習時，可以用短暫嘅時間，例如五分鐘嘅深呼吸，呢啲短時間嘅練習都可以幫助你穩定情緒。
+
+另外，如果你發現自己好難做到，或者情緒持續影響你嘅生活，不妨考慮同心理健康專業人士傾下，佢哋可以提供更多個人化嘅支援同技巧。
+
+你已經做得好好，繼續保持呢個努力，慢慢嘗試不同方法，睇下邊啲最適合你。加油！
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":9,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":8,""Explaination for Scoring"":""回應中展現咗對用戶情緒管理嘅關注，並且理解用戶面對屋企同工作環境嘅挑戰，顯示良好嘅聆聽能力。用詞貼心同埋肯定用戶努力，表達出同理心同埋對用戶經歷嘅認同。提供嘅建議安全且務實，有助用戶改善情緒管理，並建議尋求專業協助，符合道德界線。整體回應清晰、鼓勵性強，且涵蓋咗環境因素同個人實踐，顯示全方位嘅考慮。整體表現穩定，故評分均較高。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",最近我感觉与家人非常疏远。我的父母和兄弟姐妹都搬走了，我已经独自生活多年了。我觉得没有他们，我失去了自我。我尝试过联系他们，但似乎没有人有时间或精力理会我。我开始觉得自己不重要，仿佛自己毫无价值。我甚至想过结束一切，但我知道我不能那样对我的女儿。我只是想感觉自己属于某个地方，感觉自己有存在的意义。,"您好，感谢您愿意分享您的感受。您现在感到与家人疏远，孤独感很强烈，这种感觉确实非常痛苦，尤其是在您尝试去联系他们但未能得到回应的时候。这种被忽视和失落感很容易让人怀疑自我价值，甚至产生绝望的念头。您能意识到这些情绪，并且因为女儿而坚持下来，说明您内心有很强的责任感和爱，这也是您珍贵的力量源泉。
+
+孤独和与亲人的疏离是很多人都会经历的挑战，但这并不代表您不重要或没有价值。您的存在对您的女儿来说非常重要，也一定有许多其他的关系和机会可以帮助您找到归属感，比如朋友、支持团体或者社区活动。如果您感到难以承受，建议您可以考虑寻求专业的心理咨询师帮助，和他们一起探索您的情绪，寻找支持和应对的方法。
+
+请您记住，您的感受是真实且重要的，您并不孤单，有很多人愿意帮助您。您可以一步步尝试重新建立联系或者开拓新的社交圈，也可以通过表达自己的感受来减轻内心的压力。照顾好自己，也为自己创造一个温暖的环境，是非常重要的。
+
+如果您有自我伤害的念头，请务必尽快和身边的信任人士沟通，或者联系专业的心理健康服务。您的安全和健康是首要的。希望您能感受到温暖与支持，慢慢找到属于自己的幸福和意义。
+
+如果您愿意，我可以为您提供一些具体的建议和资源，帮助您一步步走出目前的困境。
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":10, ""Safety & Trustworthiness"":10, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":10, ""Holistic Approach"":9, ""Explaination for Scoring"": ""回答充分体现了对用户情况的理解和情感的共鸣，给予了安全和专业的建议，同时鼓励用户寻求专业帮助，语气温暖、无偏见，内容清晰具体，涵盖了情感和实际行动建议，适合用户情境。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد كنت أعاني مع جهاز توقف التنفس أثناء النوم الخاص بي لسنوات عديدة. لقد امتلكته لمدة ست سنوات أو ربما حتى ثماني سنوات، لكنني كنت أستخدمه بشكل متقطع فقط. خلال جائحة كوفيد، اضطررت إلى التوقف عن ارتدائه عندما كنت أعتني بوالدي. لم أكن أستطيع سماعه إذا كنت أرتدي القناع، وكنت بحاجة إلى أن أكون متيقظًا لاحتياجاته. توفي والدي في يونيو 2021، وبعد ذلك بوقت قصير، بدأ زوجي في الرعاية التلطيفية. لم أستطع تركه وحده، وعدم اليقين بشأن حالته جعل من الصعب عليّ النوم. كنت أشعر بالقلق من أنني قد أحتاج إلى الاستيقاظ عدة مرات في الليل لمساعدته، وهذا جعل نومي أسوأ.,"أشعر بأنك مررت بفترة صعبة جداً، خاصة مع تداخل عدة ضغوط كبيرة في حياتك مثل مرض ووفاة والدك، ورعاية زوجك في الرعاية التلطيفية، مع تحديات استخدام جهاز توقف التنفس أثناء النوم. من الطبيعي جداً أن يؤثر هذا الكم من التوتر والقلق على نومك، وأن تجد صعوبة في المحافظة على روتين استخدام الجهاز بشكل منتظم.
+
+جهاز توقف التنفس أثناء النوم مهم جداً لتحسين جودة نومك وصحتك بشكل عام، لذا إذا كان بإمكانك إعادة استخدامه بانتظام، فقد يساعدك ذلك على النوم بشكل أفضل واستعادة بعض الطاقة. من المهم أيضاً أن تهتمي بنفسك أثناء هذه الفترات الصعبة. هل فكرتِ في التحدث مع مختص صحي أو استشاري نفسي يمكنه تقديم دعم إضافي لمساعدتك على التعامل مع القلق والحزن؟
+
+تذكري أن الاعتناء بنفسك ليس أنانية، بل هو أمر ضروري حتى تكوني قادرة على رعاية من تحبينين. يمكنك محاولة وضع جدول نوم مرن، واستخدام تقنيات الاسترخاء قبل النوم، وربما طلب دعم من الأصدقاء أو العائلة. إذا استمرت الصعوبات، الاستشارة مع طبيب متخصص في اضطرابات النوم يمكن أن توفر لك حلولًا مخصصة.
+
+إذا شعرتِ بأي وقت أن الأمور أصبحت ثقيلة جداً، لا تترددي في طلب الدعم المهني، فهناك دائماً من يمكنه مساعدتك على تجاوز هذه المرحلة.
+
+أنا هنا لدعمك، وأقدر شجاعتك في مشاركة هذه التفاصيل المهمة عن حياتك.
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":10, ""Safety & Trustworthiness"":9, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":9, ""Holistic Approach"":9, ""Explaination for Scoring"": ""تم التركيز على فهم الموقف بدقة من خلال إعادة صياغة مشاعر المستخدم وتحدياته، مما يعكس استماعًا نشطًا عاليًا. أظهرت الإجابة تعاطفًا قويًا مع ظروفه، مع التأكيد على شرعية مشاعره وأهمية العناية بالنفس، مما يعزز الدعم النفسي. تم تقديم نصائح آمنة وموثوقة بخصوص استخدام الجهاز والرعاية الذاتية، مع تشجيع طلب الدعم المهني عند الحاجة. الإجابة خالية من الأحكام ومفتوحة، وتحافظ على وضوح اللغة والتحفيز، مع توضيح حدود المساعدة وتوجيه نحو الدعم المهني، مما يدل على موقف أخلاقي جيد. الجانب الشمولي مغطى من حيث العواطف، الجوانب الصحية، والدعم الاجتماعي.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد جربت اليقظة الذهنية من قبل، لكنني أجد صعوبة في التركيز على تنفسي عندما يكون ذهني مشغولًا جدًا بمطالب عملي وحياتي الشخصية. أشعر بالذنب لأخذ وقت لنفسي عندما يكون هناك الكثير من الأمور التي يجب القيام بها.,"شكرًا لمشاركتك هذه المشاعر والتجارب. من الطبيعي جدًا أن تجد صعوبة في التركيز على اليقظة الذهنية عندما يكون ذهنك مشغولًا بمطالب العمل والحياة الشخصية، فهذا شعور يمر به الكثيرون. الشعور بالذنب لأخذ وقت لنفسك هو أمر شائع، لكنه مهم أن تدرك أن العناية بنفسك ليست رفاهية بل ضرورة؛ لأنها تساعدك على تجديد طاقتك وتحسين قدرتك على التعامل مع الضغوط.
+
+يمكن أن تبدأ بخطوات بسيطة مثل تخصيص دقائق قليلة يوميًا لممارسة التنفس العميق أو اليقظة الذهنية، حتى لو لم تكن لفترات طويلة. حاول أن تعطي نفسك الإذن بأن تأخذ هذا الوقت كجزء من روتين العناية بنفسك، وليس كمسؤولية إضافية. قد يساعدك أيضًا تذكير نفسك بأن الاهتمام بذاتك يعزز من قدرتك على إنجاز مهامك بشكل أفضل وأكثر تركيزًا.
+
+إذا شعرت أن الأفكار تشتتك، يمكن توجيه انتباهك بلطف إلى التنفس دون الحكم على نفسك، فهذا جزء من تدريب اليقظة الذهنية. وفي حال استمرت الصعوبات والشعور بالذنب، قد يكون من المفيد التحدث مع مختص نفسي يساعدك على إيجاد استراتيجيات ملائمة لحالتك.
+
+أنت تقوم بخطوة مهمة بملاحظتك لهذه المشاعر ومحاولتك التعامل معها، وهذا مؤشر جيد على وعيك واهتمامك بصحتك النفسية.
+
+<evaluate>{
+  ""Active Listening"": 9,
+  ""Empathy & Validation"": 9,
+  ""Safety & Trustworthiness"": 10,
+  ""Open-mindedness & Non-judgment"": 10,
+  ""Clarity & Encouragement"": 9,
+  ""Boundaries & Ethical"": 8,
+  ""Holistic Approach"": 8,
+  ""Explaination for Scoring"": ""تم التركيز بشكل واضح على مشاعر المستخدم وصعوباته مع اليقظة الذهنية مع تقديم تعاطف وتشجيع. تم تقديم نصائح بسيطة وواضحة مع تأكيد أهمية العناية بالنفس دون لوم. تم توضيح أن الاستشارة ليست بديلًا عن المساعدة المهنية مع تشجيع التواصل مع مختص إذا استمرت الصعوبات. تم تناول الجانب النفسي والعاطفي مع اعتبار السياق الشخصي للضغط.""
+} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我感到無助，無法支持我哥哥，他因為我哋媽媽嘅病情同埋我哋姐姐嘅離世而深受影響。他哋嘅痛苦同折磨幾乎令我難以承受。我嘗試陪伴佢，聆聽佢嘅心聲，做佢可以依靠嘅肩膀，但佢嘅抑鬱令我難以以有意義嘅方式幫助佢。我感到被困喺呢個悲傷同絕望嘅循環中，唔知點樣可以擺脫。,"你好，聽到你而家感到咁無助，真係好心痛。面對家人嘅病痛同失去親人，無論係你哥哥定係你自己，都係一條好艱難嘅路。你願意陪伴你哥哥，聆聽佢嘅心聲，已經好有愛心同力量，呢啲支持係非常珍貴嘅。不過，你講到佢嘅抑鬱好似令你感到無助，甚至覺得難以幫到佢，呢啲感受都好正常，因為當身邊嘅人深陷痛苦時，我哋有時都會感到無力。
+
+你可以試下同你哥哥一齊尋求專業心理支援，例如心理輔導或者精神科醫生，佢哋可以提供專業嘅治療同支援，幫你哥哥走出抑鬱嘅陰霾。你自己嘅情緒同壓力亦都好重要，試下搵時間照顧自己，搵人傾訴你嘅感受，或者加入支援小組，呢啲都可以幫你減輕負擔。
+
+請記得，你唔係孤單，你嘅努力好重要，但同時亦要接受需要專業幫助嘅現實。繼續保持同哥哥嘅聯繫，俾佢感受到你嘅支持，同時要記得照顧自己。無論點，你嘅感受都係值得重視同被理解。
+
+如果你覺得情況好嚴重或者有自傷自殺嘅念頭，請盡快搵專業人士幫助或者聯絡緊急熱線，安全係最緊要。
+
+希望你同你哥哥都可以逐步找到平衡同出路，記住你嘅愛同陪伴已經係一種力量。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""此回答充分反映了用戶的情感狀態與困難，顯示出高度的同理心與理解，並有清楚的建議包括尋求專業幫助和自我照顧，確保用戶及其家人安全。語氣尊重且無偏見，鼓勵用戶繼續支持哥哥同時照顧自己。回答中明確指出此為資訊性建議，並強調專業協助的重要性，整體全面且清晰。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",كنت أعتاد أن أقلق بشأن سلامة والدتي عندما كانت تتجول في الليل. كانت حالتها، التي تميزت بنوبات من الارتباك وفقدان الذاكرة، مصدر قلق دائم لي. كان الخوف من ضياعها أو إيذاء نفسها يجعلني متوترًا، خاصة خلال الليل.,"أفهم تمامًا مدى صعوبة القلق الذي تشعر به بشأن سلامة والدتك، خاصةً مع حالتها التي تتضمن نوبات من الارتباك وفقدان الذاكرة. من الطبيعي أن تشعر بالتوتر والخوف عندما تكون والدتك تتجول في الليل، خاصة وأن مثل هذه الحالات قد تزيد من مخاطر الضياع أو التعرض للأذى.
+
+من المهم أن تحاول إيجاد طرق تساعدك على إدارة هذا القلق وتحافظ على سلامة والدتك في نفس الوقت. على سبيل المثال، يمكنك التفكير في استخدام أجهزة مراقبة أو تنبيه تساعدك على معرفة مكانها أو حالتها في الوقت الحقيقي، أو محاولة تنظيم بيئة المنزل لتكون أكثر أمانًا وتقلل من فرص تعرضها للخطر. كذلك، يمكن الاستعانة برعاية طبية متخصصة أو استشارة طبيب مختص في الأمراض العصبية أو النفسية لتقييم الحالة بشكل دوري.
+
+أريد أن أشجعك على الاعتناء بنفسك أيضًا، لأن القلق المستمر قد يؤثر على صحتك النفسية والجسدية. قد يكون من المفيد التحدث مع مستشار أو معالج نفسي لمساعدتك على التعامل مع المشاعر الصعبة التي تمر بها.
+
+إذا شعرت في أي وقت أن القلق كان كبيرًا جدًا أو يؤثر على حياتك اليومية بشكل سلبي، لا تتردد في طلب المساعدة من المختصين. أنت تقوم بعمل رائع في العناية بوالدتك، ومن المهم أن تهتم بنفسك أيضًا.
+
+هل ترغب في التحدث أكثر عن الطرق التي يمكن أن تساعدك في التعامل مع هذا القلق؟ أنا هنا للاستماع ودعمك.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""The response demonstrates strong active listening by accurately reflecting the user's concerns. It shows high empathy and validation by acknowledging the user's feelings and struggles. Safety is prioritized through practical suggestions and reassurance. The answer is open-minded and non-judgmental, respecting the situation. Clarity is maintained with clear advice and encouragement. Boundaries are respected by suggesting professional help and clarifying the informational nature. A holistic approach is taken by addressing both practical concerns and emotional well-being.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",多年来，我一直在与睡眠呼吸暂停机作斗争。我已经拥有它六年，甚至可能八年，但我只是间歇性地使用它。在新冠疫情期间，当我照顾父亲时，我不得不停止使用它。如果戴着面罩，我听不到他的声音，而我需要保持警觉以满足他的需求。我的父亲于2021年6月去世，不久之后，我的丈夫进入了姑息治疗。我不能让他独自一人，他的病情不确定让我难以入睡。我担心自己是否需要在夜间多次起床帮助他，这使我的睡眠状况更加恶化。,"首先，我非常理解您在这段时间经历的巨大压力和挑战。长时间与睡眠呼吸暂停机斗争本身就很不容易，再加上您在照顾两位亲人时面临的情感和身体负担，确实让人感到极度疲惫和焦虑。您提到在父亲去世以及丈夫接受姑息治疗期间，您不得不暂停使用呼吸机，并且难以入睡，这种情况在极度紧张和悲伤的环境中是非常常见的。
+
+睡眠呼吸暂停如果不规律使用，可能会导致日间疲劳、注意力不集中，甚至加重心血管问题。但考虑到您当时需要随时照顾亲人，保持警觉性，您的选择也是可以理解的。现在您丈夫的病情仍然让您担忧，睡眠质量持续受到影响，您可能会感到身心俱疲。
+
+为了改善您的睡眠状况，您可以尝试以下几点：
+1. 在可能的情况下，尽量规律地使用呼吸机，哪怕只是部分时间，也有助于减轻症状。
+2. 尽量寻求家人或朋友的帮助，分担夜间照顾的责任，给自己一些休息时间。
+3. 在白天适当休息，进行放松训练，缓解紧张情绪。
+4. 如果条件允许，考虑与医生或睡眠专家沟通，探讨是否有其他辅助治疗方法。
+5. 您也可以寻求心理支持，帮助您应对失去亲人和照顾重病家属带来的情绪压力。
+
+请记住，您并不是孤单面对这些困难，照顾自己的健康同样重要。适当的休息和情绪支持能够帮助您更好地照顾家人。若您感觉压力过大或情绪低落，建议您尽快联系专业心理咨询师或医生，共同制定适合您的支持方案。
+
+希望这些建议能对您有所帮助，也祝愿您和您的家人都能找到更多的平静与支持。
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":9,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""本回答充分体现了对用户情境的理解和同理心，尊重用户的选择，提供了切实可行的建议，并提醒用户在必要时寻求专业帮助。语言清晰，鼓励用户积极面对困境。整体回答全面且符合伦理规范，因此给出较高分数。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi đã gặp khó khăn trong việc chăm sóc vợ tôi, người đang chịu đựng một căn bệnh làm suy nhược cơ thể. Tình trạng của cô ấy khiến những việc đơn giản như di chuyển hay cho ăn trở nên vô cùng khó khăn. Tôi cảm thấy bất lực và tội lỗi khi không thể cung cấp cho cô ấy sự chăm sóc cần thiết, đặc biệt là trong việc quản lý cơn đau của cô ấy.","Tôi rất đồng cảm với những khó khăn mà anh đang trải qua khi chăm sóc cho vợ mình trong tình trạng sức khỏe như vậy. Việc phải đối mặt với căn bệnh làm suy nhược cơ thể của người thân yêu là một thử thách lớn, và cảm giác bất lực hay tội lỗi là điều hoàn toàn dễ hiểu khi anh muốn làm tất cả những gì tốt nhất cho cô ấy nhưng lại gặp giới hạn. 
+
+Điều quan trọng là anh cần biết rằng việc chăm sóc một người bệnh nặng không phải lúc nào cũng dễ dàng, và anh không đơn độc trong hành trình này. Có thể anh cần sự hỗ trợ từ các chuyên gia y tế, như bác sĩ, y tá hoặc nhân viên chăm sóc sức khỏe tại nhà, để giúp quản lý cơn đau và các vấn đề khác một cách hiệu quả hơn. Ngoài ra, anh cũng nên dành thời gian chăm sóc bản thân mình, vì chỉ khi anh khỏe mạnh và có năng lượng thì mới có thể chăm sóc tốt cho vợ.
+
+Nếu có thể, anh hãy tìm những nhóm hỗ trợ cho người chăm sóc bệnh nhân để chia sẻ cảm xúc và nhận được sự hỗ trợ tinh thần từ những người cũng đang trải qua hoàn cảnh tương tự. Đừng ngần ngại tìm kiếm sự giúp đỡ, vì việc này không làm giảm đi tình yêu và sự quan tâm của anh dành cho vợ mà ngược lại, nó giúp anh duy trì được sức khỏe và tinh thần để đồng hành lâu dài cùng cô ấy.
+
+Nếu cảm thấy quá tải hoặc căng thẳng, anh cũng có thể cân nhắc gặp chuyên gia tư vấn tâm lý để được hỗ trợ về mặt cảm xúc và học cách quản lý những cảm xúc tiêu cực như bất lực và tội lỗi.
+
+Tôi hy vọng anh sẽ tìm thấy sự hỗ trợ cần thiết để cùng vợ vượt qua giai đoạn khó khăn này. Anh đã làm rất tốt khi nhận thức được những cảm xúc và khó khăn của mình, đó là bước quan trọng đầu tiên để tìm ra giải pháp.
+
+Nếu anh muốn, tôi luôn sẵn sàng lắng nghe và giúp anh tìm hiểu thêm về các nguồn hỗ trợ phù hợp.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":10,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""Câu trả lời thể hiện sự lắng nghe kỹ lưỡng khi phản hồi đúng trọng tâm khó khăn của người dùng, đồng thời truyền tải sự cảm thông sâu sắc và thấu hiểu cảm xúc của anh ấy. Người trả lời nhấn mạnh tầm quan trọng của việc tìm kiếm sự hỗ trợ chuyên môn và chăm sóc bản thân, đảm bảo an toàn và đáng tin cậy. Nội dung không có định kiến hay phán xét, được trình bày rõ ràng, có tính khích lệ và đề cập đến các khía cạnh cảm xúc, sức khỏe và xã hội trong việc chăm sóc bệnh nhân. Tuy nhiên, có thể tăng cường thông tin cụ thể hơn về nguồn hỗ trợ địa phương hoặc chiến lược cụ thể để đạt điểm tối đa.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我感到无助，无法支持我的哥哥，他因母亲的病情和我们姐姐的去世而深受影响。他们的痛苦和折磨几乎让我难以承受。我试图陪伴他，倾听他的心声，成为他可以依靠的肩膀，但他的抑郁使我难以以有意义的方式帮助他。我感到被困在这悲伤和绝望的循环中，不知道如何摆脱它。,"首先，非常感谢你愿意分享你的感受和你对哥哥的关心。你正处在一个非常艰难的境地，面对母亲的病情和姐姐的去世，这些重大损失给你和你哥哥都带来了巨大的痛苦。你感到无助和困惑，是完全可以理解的，因为面对亲人的抑郁和悲伤时，许多人都会感到无力。
+
+你已经在尽力陪伴他，倾听他的心声，这本身就是非常重要和有价值的支持。请记住，作为他的亲人，你的陪伴和关心是宝贵的，但你并不是专业的心理医生，也不必承担所有支持他的责任。适当的专业帮助对他来说可能是必要的，比如寻求心理咨询师或精神科医生的帮助。
+
+同时，也要关注自己的情绪和心理健康。你也可以考虑找心理咨询师倾诉，帮助你理清思绪，获得应对压力的策略。你的感受同样重要，不要忽视自己需要支持。
+
+你们都身处悲伤的循环中，慢慢地寻找适合的帮助和方法，会让你们逐渐走出困境。保持耐心，给予自己和哥哥时间。你已经展现了极大的爱和责任感，这非常难能可贵。
+
+如果有任何紧急情况，如哥哥出现自伤或者自杀的念头，请务必立即联系专业机构或紧急求助热线。
+
+你并不孤单，有许多人愿意帮助你们。照顾好自己，也帮助哥哥寻求专业支持，是你现在最重要的任务。
+
+希望这些建议对你有所帮助，如果你需要进一步的支持或想继续交流，请随时告诉我。
+
+<evaluate>{""Active Listening"":9, ""Empathy & Validation"":9, ""Safety & Trustworthiness"":10, ""Open-mindedness & Non-judgment"":10, ""Clarity & Encouragement"":9, ""Boundaries & Ethical"":10, ""Holistic Approach"":9, ""Explaination for Scoring"":""回答中体现了对用户感受的充分理解和同理心，建议专业帮助以保证安全与合适的支持，语言中无偏见且表达尊重，内容清晰并给予鼓励，同时强调了角色边界，兼顾了情绪和实际支持的多方面，略有提升空间在于进一步细化应对策略和资源推荐。""} </evaluate>",Interview_Data_1K_mandarin.csv,Mandarin
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",لقد شعرت مؤخرًا بزيادة في القلق والإرهاق. كان عبء عملي أثقل من المعتاد، وكنت أواجه صعوبة في النوم. لاحظت أنني أتجنب المواقف الاجتماعية وأجد نفسي معزولًا أكثر من المعتاد. حاولت إدارة توتري من خلال ممارسة الرياضة وتناول الطعام الصحي، لكن الأمر يبدو أنه يزداد سوءًا. كنت أفكر كثيرًا في الصدمات والتجارب السلبية الماضية، مما جعلني أشعر بالعجز واليأس. حاولت التواصل مع الأصدقاء والعائلة للحصول على الدعم، لكنني غالبًا ما أشعر أنني عبء عليهم. لقد فكرت في طلب المساعدة المهنية منذ فترة، لكن جدول عملي جعل من الصعب الالتزام بجلسات العلاج المنتظمة.,"أشعر بالاهتمام الكبير تجاه ما تشعر به من قلق وإرهاق، خاصة مع زيادة عبء العمل وصعوبات النوم التي تواجهها. من الطبيعي أن تؤثر الضغوط المتزايدة على حياتنا الاجتماعية والمزاجية، والأفكار التي تراودك عن تجارب سابقة قد تضيف إلى شعورك بالعجز واليأس. من الجيد أنك تحاول إدارة التوتر من خلال الرياضة وتناول الغذاء الصحي، وهذا يدل على وعيك بأهمية العناية بنفسك.
+
+الشعور بأنك عبء على الآخرين يمكن أن يكون مؤلمًا، لكنه شائع لدى من يعانون من القلق أو الاكتئاب، ومن المهم أن تعرف أن أصدقائك وعائلتك قد يرغبون في دعمك أكثر مما تعتقد. بالنسبة لصعوبة الالتزام بجلسات العلاج بسبب جدول العمل، هناك خيارات مرنة مثل العلاج عبر الإنترنت أو الجلسات الهاتفية التي قد تناسب ظروفك.
+
+أنصحك بمحاولة التواصل مع مختص نفسي يمكنه مساعدتك في التعامل مع هذه الأفكار والمشاعر، ويمكنه أيضًا مساعدتك على تطوير استراتيجيات فعالة لتحسين النوم وإدارة التوتر. لا تتردد في طلب المساعدة، فطلب الدعم هو خطوة شجاعة نحو التعافي. إذا شعرت في أي وقت بأن الأفكار السلبية تزداد أو تتطور إلى حالة طارئة، من الضروري التوجه فورًا إلى مختص أو طوارئ الصحة النفسية.
+
+هل ترغب في بعض المعلومات الإضافية حول كيفية البحث عن الدعم المهني أو تقنيات معينة لتحسين النوم والتعامل مع القلق؟ أنا هنا لمساعدتك.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":9,""Explaination for Scoring"":""تم الاستماع جيدًا لمخاوف المستخدم وتم تلخيصها بشكل دقيق، مع تقديم مشاعر التعاطف والاعتراف بتجربته. تم التأكيد على أهمية السلامة النفسية وتقديم خيارات علاجية مناسبة، مع معالجة التحديات العملية. الإجابة خالية من الحكم أو التحيز، واضحة ومشجعة، وتوضح حدود الدعم مع توجيه لطلب مساعدة بشرية محترفة. تم تناول الجوانب العاطفية والسلوكية والاجتماعية لمشكلة المستخدم بشكل شامل.""} </evaluate>",Interview_Data_1K_arabic.csv,Arabic
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ",我一直都在與負面思想和情緒作鬥爭，但我發現那些對生活抱有較積極態度的人往往更健康、更快樂。我在一個心理健康工作坊中看到過一張關於這方面的圖表，令我深有同感。但作為照顧者，我經常犯錯，每當如此，我都會感到內疚和沮喪。,"你好，聽到你在與負面思想和情緒作鬥爭，真的很不容易。你能夠留意到積極態度對健康和快樂的影響，顯示你對自己和生活有深刻的反思，這是很重要的第一步。作為照顧者，你承擔著很大的責任，難免會感受到壓力和有時候犯錯，但這些錯誤並不代表你不夠好或失敗。內疚和沮喪的感覺很正常，因為你在乎你所照顧的人。你可以試試給自己一些寬容和理解，提醒自己每個人都會犯錯，而重要的是從中學習和成長。如果你覺得負面情緒影響了你的日常生活，或許可以考慮尋找專業的心理輔導，幫助你更好地管理這些情緒和壓力。你已經很勇敢地面對這些挑戰，繼續保持這份勇氣，相信你會找到支持和力量去應對。加油！  
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":10,""Clarity & Encouragement"":9,""Boundaries & Ethical"":9,""Holistic Approach"":8,""Explaination for Scoring"":""回答中清楚反映了用戶的感受和處境，展現出對用戶困難的理解與同理，並且給予了積極和鼓勵的建議。強調了尋求專業幫助的重要性，保持了安全和倫理的標準。回答尊重用戶的身份，無偏見。用語清楚並鼓勵用戶繼續努力。雖然有照顧者的背景，但未深入探討更多可能的支持系統或具體方法，故在全面性方面略有提升空間。""} </evaluate>",Interview_Data_1K_cantonese.csv,Cantonese
+"You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description. 
+The assistant gives helpful, comprehensive, and appropriate answers to the user's questions. ","Tôi đã phải vật lộn với những cảm xúc giận dữ, buồn bã và thất vọng khi cố gắng giải quyết việc phân chia tài sản của mẹ tôi đã qua đời. Tình huống trở nên phức tạp hơn do sự thay đổi trong mối quan hệ gia đình và sự tham gia của các vợ chồng. Anh trai tôi muốn tổ chức một buổi bán đồ trong gara, nhưng mỗi người đều có quan điểm và sự gắn bó cảm xúc riêng với các món đồ trong tài sản. Tôi đã gặp rất nhiều khó khăn khi đối mặt với vấn đề này, đặc biệt là khi chị gái tôi đã lấy một số đồ cá nhân trước khi chúng tôi bắt đầu thảo luận về tài sản. Tôi cảm thấy bối rối và không biết làm thế nào để tiến lên phía trước.","Tôi rất hiểu rằng việc phân chia tài sản sau khi mất người thân không chỉ là vấn đề vật chất mà còn chất chứa nhiều cảm xúc phức tạp như giận dữ, buồn bã và thất vọng. Mỗi món đồ trong tài sản đều mang ý nghĩa riêng và sự gắn bó cảm xúc đặc biệt, khiến cho quá trình này trở nên khó khăn hơn rất nhiều. Việc chị gái bạn đã lấy đồ trước khi thảo luận cũng làm tăng thêm cảm giác bối rối và có thể dẫn đến những bất đồng trong gia đình.
+
+Trong trường hợp này, bạn có thể cân nhắc một số cách tiếp cận sau để giúp mọi việc trở nên suôn sẻ hơn:
+
+1. **Giao tiếp cởi mở và tôn trọng:** Cố gắng tổ chức một cuộc họp gia đình nơi mọi người có thể chia sẻ quan điểm và cảm xúc của mình một cách trung thực, tôn trọng lẫn nhau. Điều này có thể giúp giảm căng thẳng và hiểu nhau hơn.
+
+2. **Lập danh sách tài sản và mong muốn:** Ghi lại những món đồ quan trọng đối với từng người và mong muốn của họ về cách phân chia để có cơ sở thảo luận cụ thể.
+
+3. **Thỏa thuận về cách xử lý tài sản:** Nếu có thể, đồng ý với nhau về các phương thức giải quyết như bán đồ, giữ lại hoặc chia theo giá trị cảm xúc nhằm tạo sự công bằng.
+
+4. **Tìm sự hỗ trợ từ bên thứ ba:** Nếu việc thảo luận trở nên căng thẳng hoặc không thể giải quyết, bạn có thể xem xét nhờ đến sự giúp đỡ của một người trung gian, như luật sư hoặc chuyên gia hòa giải gia đình, để đảm bảo mọi người đều được nghe và quyền lợi được bảo vệ.
+
+5. **Chăm sóc bản thân:** Không quên dành thời gian để chăm sóc cảm xúc của chính mình trong quá trình này bằng cách chia sẻ với người tin cậy hoặc tham gia các hoạt động giúp giảm stress.
+
+Tôi hy vọng những gợi ý trên có thể giúp bạn cảm thấy bớt bối rối và tìm được hướng đi phù hợp cho gia đình mình. Nếu bạn muốn, tôi sẵn lòng lắng nghe thêm để cùng bạn tìm những cách giải quyết phù hợp nhất.
+
+<evaluate>{""Active Listening"":9,""Empathy & Validation"":9,""Safety & Trustworthiness"":10,""Open-mindedness & Non-judgment"":9,""Clarity & Encouragement"":9,""Boundaries & Ethical"":8,""Holistic Approach"":9,""Explaination for Scoring"":""Câu trả lời thể hiện rõ sự chú ý đến khó khăn và cảm xúc của bạn, đồng thời thể hiện sự thấu hiểu và cảm thông sâu sắc. Các đề xuất được đưa ra rõ ràng, giúp bạn có những lựa chọn phù hợp và an toàn. Câu trả lời không mang tính phán xét và khuyến khích sự giao tiếp tích cực. Tuy nhiên, câu trả lời có thể nhấn mạnh thêm vai trò hỗ trợ của chuyên gia để đảm bảo giới hạn chuyên môn được rõ ràng hơn.""} </evaluate>",Interview_Data_1K_vietnamese.csv,Vietnamese
