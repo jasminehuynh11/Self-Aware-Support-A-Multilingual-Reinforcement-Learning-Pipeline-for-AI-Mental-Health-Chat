@@ -78,9 +78,9 @@ graph TD
     B --> C[v1.2: Multilingual Translation]
     C --> D[v1.3: RL Self-Awareness]
     
-    E[SocialVerse 10M Profiles] --> F[500 Diverse Profiles]
+    E[SocioVerse 10M Profiles] --> F[500 Diverse Profiles]
     F --> G[v2.1: Synthetic Data Generation]
-    G --> H[v2.2: RL Enhancement]
+    G --> H[v2.2: RL SelfAware Enhancement]
     
     C --> I[v3.1: Hybrid Combination]
     G --> I
@@ -311,6 +311,8 @@ Phase_1-Training_3_model_series_1-v1.1-v1.2-v1.3.ipynb
 Phase_2-Traning_2_model_series_2-v2.1-v2.2.ipynb
 Phase_3-Traning_2_model_series_3-v3.1-v3.2.ipynb
 ```
+
+To download the trained model, please access https://1drv.ms/f/s!Aux-k3Gku6y6spVl4-Edg4kJRfxk0Q?e=5RnppU
 
 ### 3. Model Inference
 
