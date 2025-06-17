@@ -31,7 +31,7 @@ This project develops a multilingual mental health chatbot focusing on **distres
 
 ## 💬 Chatbot
 
-The chatbot application and deployment scripts are located in the [`05_Chatbot`](./05_Chatbot) folder. For setup and usage instructions, please refer to the [05_Chatbot/README.md](./05_Chatbot/README.md).
+The chatbot application and deployment scripts are located in the [`05_Chatbot`](./05_Chatbot) folder. For setup and usage instructions, please refer to the [05_Chatbot/README_CHATBOT.md](./05_Chatbot/README_CHATBOT.md).
 
 ## � Dataset Overview
 
