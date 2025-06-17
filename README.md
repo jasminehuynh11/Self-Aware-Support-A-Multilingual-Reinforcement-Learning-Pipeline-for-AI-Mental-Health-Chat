@@ -1,6 +1,6 @@
-# Multilingual Mental Health Chatbot - COMP8420 Final Project
+# Self-Aware Support: A Multilingual Reinforcement Learning Pipeline for AI Mental Health Chatbots 
 
-A comprehensive multilingual mental health chatbot built using fine-tuned Qwen3-4B models with novel Reinforcement Learning techniques for on-premise deployment.
+A comprehensive multilingual mental health chatbot built using fine-tuned Large Language Model Qwen3-4B models with novel Reinforcement Learning techniques with Self-Aware for on-premise deployment.
 
 ## 📋 Table of Contents
 
