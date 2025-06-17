@@ -5,6 +5,7 @@ A comprehensive multilingual mental health chatbot built using fine-tuned Qwen3-
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
+- [Chatbot](#chatbot)
 - [Dataset Overview](#dataset-overview)
 - [Data Preparation Pipeline](#data-preparation-pipeline)
 - [Model Training](#model-training)
@@ -13,7 +14,9 @@ A comprehensive multilingual mental health chatbot built using fine-tuned Qwen3-
 - [Installation & Setup](#installation--setup)
 - [Usage Guide](#usage-guide)
 - [Results](#results)
+- [Human Evaluation Survey](#-human-evaluation-survey)
 - [Contributors](#contributors)
+
 
 ## 🎯 Project Overview
 
@@ -25,6 +28,10 @@ This project develops a multilingual mental health chatbot focusing on **distres
 - **On-Premise Solution**: Privacy-focused deployment for healthcare environments
 - **Novel RL Approach**: Reinforcement Learning with Self-Awareness using GRPO
 - **Comprehensive Evaluation**: 7-metric evaluation system for mental health responses
+
+## 💬 Chatbot
+
+The chatbot application and deployment scripts are located in the [`05_Chatbot`](./05_Chatbot) folder. For setup and usage instructions, please refer to the [05_Chatbot/README.md](./05_Chatbot/README.md).
 
 ## � Dataset Overview
 
@@ -478,6 +485,21 @@ python 04_combine_evaluation_statistics.py
 - **Clarity & Encouragement**: Provides clear, encouraging communication
 - **Boundaries & Ethics**: Maintains professional therapeutic boundaries
 - **Holistic Approach**: Considers whole-person wellness
+
+## 📝 Human Evaluation Survey
+
+To complement automated evaluation, we conducted a human evaluation survey to assess the model's response quality from a user perspective. The survey gathers feedback on empathy, clarity, cultural sensitivity, and overall helpfulness.
+
+- **Survey Location**: [`04_Evaluation/02_human_evaluation_survey`](./04_Evaluation/02_human_evaluation_survey)
+- **Contents**: Survey form, instructions, and anonymized response data
+- **Purpose**: Collect qualitative insights and validate AI-based evaluation metrics
+
+**How to Participate:**
+1. Open the survey form in the folder above.
+2. Follow the instructions to review sample chatbot responses.
+3. Submit your ratings and feedback as described in the README.
+
+Results from the human evaluation are used to further refine and benchmark the chatbot's performance.
 
 ## 🏆 Key Innovations
 
